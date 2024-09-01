@@ -3,6 +3,7 @@ using DSharpPlus;
 using DSharpPlus.CommandsNext;
 using DSharpPlus.EventArgs;
 using Rollbot.Config;
+using RollBot.Commands;
 
 namespace RollBot;
 
@@ -26,6 +27,18 @@ internal class Program
         Client = new DiscordClient(discordConfig);
 
         Client.Ready += Client_Ready;
+
+        var commandsConfig = new CommandsNextConfiguration()
+        {
+            StringPrefixes = new string[] { jsonReader.prefix },
+            EnableMentionPrefix = true,
+            EnableDms = true,
+            EnableDefaultHelp = true
+        };
+
+        Commands = Client.UseCommandsNext(commandsConfig);
+
+        Commands.RegisterCommands<TestCommands>();
 
         await Client.ConnectAsync();
         await Task.Delay(-1);
