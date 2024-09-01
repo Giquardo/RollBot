@@ -2,6 +2,8 @@
 using DSharpPlus;
 using DSharpPlus.CommandsNext;
 using DSharpPlus.EventArgs;
+using DSharpPlus.Interactivity;
+using DSharpPlus.Interactivity.Extensions;
 using Rollbot.Config;
 using RollBot.Commands;
 
@@ -9,8 +11,8 @@ namespace RollBot;
 
 internal class Program
 {
-    private static DiscordClient Client { get; set; }
-    private static CommandsNextExtension Commands { get; set; }
+    public static DiscordClient Client { get; set; }
+    public static CommandsNextExtension Commands { get; set; }
     static async Task Main(string[] args)
     {
         var jsonReader = new JSONReader();
@@ -26,6 +28,11 @@ internal class Program
         };
 
         Client = new DiscordClient(discordConfig);
+
+        Client.UseInteractivity(new InteractivityConfiguration()
+        {
+            Timeout = TimeSpan.FromMinutes(2)
+        });
 
         Client.Ready += Client_Ready;
 
