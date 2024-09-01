@@ -1,15 +1,19 @@
 ﻿using System.Threading.Tasks;
 using DSharpPlus;
 using DSharpPlus.CommandsNext;
+using DSharpPlus.CommandsNext.Attributes;
+using DSharpPlus.CommandsNext.Exceptions;
+using DSharpPlus.Entities;
 using DSharpPlus.EventArgs;
 using DSharpPlus.Interactivity;
 using DSharpPlus.Interactivity.Extensions;
+using DSharpPlus.SlashCommands;
 using Rollbot.Config;
 using RollBot.Commands;
 
 namespace RollBot;
 
-internal class Program
+public sealed class Program
 {
     public static DiscordClient Client { get; set; }
     public static CommandsNextExtension Commands { get; set; }
@@ -24,7 +28,7 @@ internal class Program
             Token = jsonReader.token,
             TokenType = TokenType.Bot,
             AutoReconnect = true,
-            
+
         };
 
         Client = new DiscordClient(discordConfig);
@@ -45,11 +49,38 @@ internal class Program
         };
 
         Commands = Client.UseCommandsNext(commandsConfig);
+        var slashCommandsConfiguration = Client.UseSlashCommands();
 
-        Commands.RegisterCommands<TestCommands>();
+        Commands.CommandErrored += CommandEventHandler;
+
+
+        slashCommandsConfiguration.RegisterCommands<HelpCommand>();
+        slashCommandsConfiguration.RegisterCommands<Calculator>();
 
         await Client.ConnectAsync();
         await Task.Delay(-1);
+    }
+
+    private static async Task CommandEventHandler(CommandsNextExtension sender, CommandErrorEventArgs e)
+    {
+        if (e.Exception is ChecksFailedException exception)
+        {
+            string timeLeft = string.Empty;
+            foreach (var check in exception.FailedChecks)
+            {
+                var Cooldown = (CooldownAttribute)check;
+                timeLeft = Cooldown.GetRemainingCooldown(e.Context).ToString(@"hh\:mm\:ss");
+            }
+
+            var coolDownMessage = new DiscordEmbedBuilder
+            {
+                Title = "Cooldown",
+                Description = $"You are on cooldown for {timeLeft}",
+                Color = DiscordColor.Red
+            };
+
+            await e.Context.Channel.SendMessageAsync(embed: coolDownMessage);
+        }
     }
 
     private static Task Client_Ready(DiscordClient sender, ReadyEventArgs args)

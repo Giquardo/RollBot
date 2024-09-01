@@ -1,0 +1,3 @@
+2024-09-01 22:53:24 [Information] - User Controller: Getting all users
+2024-09-01 22:53:24 [Information] - User Service: Getting all users
+2024-09-01 22:53:24 [Information] - User Repository: Getting all users
