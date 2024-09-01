@@ -21,7 +21,8 @@ internal class Program
             Intents = DiscordIntents.All,
             Token = jsonReader.token,
             TokenType = TokenType.Bot,
-            AutoReconnect = true
+            AutoReconnect = true,
+            
         };
 
         Client = new DiscordClient(discordConfig);
