@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RollBot", "RollBot.csproj", "{045BBD05-F5FD-4618-9C93-FF8C1C7625E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RollBotApi", "RollBotApi\RollBotApi.csproj", "{3465D98C-45DD-4FCF-B158-E7C9E97650F1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RollBot", "testing\RollBot.csproj", "{40036939-CEA7-4949-89EF-87EEFAB0B01F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{045BBD05-F5FD-4618-9C93-FF8C1C7625E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{045BBD05-F5FD-4618-9C93-FF8C1C7625E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{045BBD05-F5FD-4618-9C93-FF8C1C7625E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{045BBD05-F5FD-4618-9C93-FF8C1C7625E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3465D98C-45DD-4FCF-B158-E7C9E97650F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3465D98C-45DD-4FCF-B158-E7C9E97650F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3465D98C-45DD-4FCF-B158-E7C9E97650F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3465D98C-45DD-4FCF-B158-E7C9E97650F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40036939-CEA7-4949-89EF-87EEFAB0B01F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40036939-CEA7-4949-89EF-87EEFAB0B01F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40036939-CEA7-4949-89EF-87EEFAB0B01F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40036939-CEA7-4949-89EF-87EEFAB0B01F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -11,17 +11,16 @@ namespace RollBotApi.Repositories;
 public interface IUserRepository
 {
     Task<IEnumerable<User>> GetUsers();
-    Task<User> GetUser(string id);
+    Task<User> GetUser(string discordId);
     Task<User> CreateUser(User user);
-    Task UpdateUser(string id, User user);
-    Task DeleteUser(string id);
+    Task UpdateUser(string discordId, User user);
+    Task DeleteUser(string discordId);
 }
 
 public class UserRepository : IUserRepository
 {
     private readonly IMongoCollection<User> _usersCollection;
     private readonly ILoggingService _loggingService;
-
 
     public UserRepository(IMongoContext context, ILoggingService loggingService)
     {
@@ -35,10 +34,10 @@ public class UserRepository : IUserRepository
         return await _usersCollection.Find(user => true).ToListAsync();
     }
 
-    public async Task<User> GetUser(string id)
+    public async Task<User> GetUser(string discordId)
     {
-        _loggingService.LogInformation($"User Repository: Getting user with id {id}");
-        return await _usersCollection.Find(user => user.DiscordId == id).FirstOrDefaultAsync();
+        _loggingService.LogInformation($"User Repository: Getting user with id {discordId}");
+        return await _usersCollection.Find(user => user.DiscordId == discordId).FirstOrDefaultAsync();
     }
 
     public async Task<User> CreateUser(User user)
@@ -48,15 +47,16 @@ public class UserRepository : IUserRepository
         return user;
     }
 
-    public async Task UpdateUser(string id, User user)
+    public async Task UpdateUser(string discordId, User user)
     {
-        _loggingService.LogInformation($"User Repository: Updating user with id {id}");
-        await _usersCollection.ReplaceOneAsync(user => user.DiscordId == id, user);
+        _loggingService.LogInformation($"User Repository: Updating user with id {discordId}");
+        await _usersCollection.ReplaceOneAsync(user => user.DiscordId == discordId, user);
     }
 
-    public async Task DeleteUser(string id)
+    public async Task DeleteUser(string discordId)
     {
-        _loggingService.LogInformation($"User Repository: Deleting user with id {id}");
-        await _usersCollection.DeleteOneAsync(user => user.DiscordId == id);
+        _loggingService.LogInformation($"User Repository: Deleting user with id {discordId}");
+        await _usersCollection.DeleteOneAsync(user => user.DiscordId == discordId);
     }
+
 }

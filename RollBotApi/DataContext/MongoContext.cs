@@ -19,6 +19,9 @@ public interface IMongoContext
     IMongoClient Client { get; }
     IMongoDatabase Database { get; }
     IMongoCollection<User> UsersCollection { get; }
+    IMongoCollection<Serie> SeriesCollection { get; }
+    IMongoCollection<Character> CharactersCollection { get; }
+    IMongoCollection<SerieTag> TagsCollection { get; }
     //IMongoCollection<Card> CardsCollection { get; }
     //IMongoCollection<Pack> PacksCollection { get; }
 }
@@ -50,6 +53,30 @@ public class MongoContext : IMongoContext
         get
         {
             return _database.GetCollection<User>(_settings.UsersCollection);
+        }
+    }
+
+    public IMongoCollection<Serie> SeriesCollection
+    {
+        get
+        {
+            return _database.GetCollection<Serie>(_settings.SeriesCollection);
+        }
+    }
+
+    public IMongoCollection<Character> CharactersCollection
+    {
+        get
+        {
+            return _database.GetCollection<Character>(_settings.CharactersCollection);
+        }
+    }
+
+    public IMongoCollection<SerieTag> TagsCollection
+    {
+        get
+        {
+            return _database.GetCollection<SerieTag>(_settings.TagsCollection);
         }
     }
 

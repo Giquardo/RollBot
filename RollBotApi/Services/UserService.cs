@@ -9,10 +9,10 @@ namespace RollBotApi.Services;
 public interface IUserService
 {
     Task<IEnumerable<User>> GetUsers();
-    Task<User> GetUser(string id);
+    Task<User> GetUser(string discordId);
     Task<User> CreateUser(User user);
-    Task UpdateUser(string id, User user);
-    Task DeleteUser(string id);
+    Task UpdateUser(string discordId, User user);
+    Task DeleteUser(string discordId);
 }
 
 public class UserService : IUserService
@@ -32,10 +32,10 @@ public class UserService : IUserService
         return await _userRepository.GetUsers();
     }
 
-    public async Task<User> GetUser(string id)
+    public async Task<User> GetUser(string discordId)
     {
-        _loggingService.LogInformation($"User Service: Getting user with id {id}");
-        return await _userRepository.GetUser(id);
+        _loggingService.LogInformation($"User Service: Getting user with id {discordId}");
+        return await _userRepository.GetUser(discordId);
     }
 
     public async Task<User> CreateUser(User user)
@@ -44,15 +44,15 @@ public class UserService : IUserService
         return await _userRepository.CreateUser(user);
     }
 
-    public async Task UpdateUser(string id, User user)
+    public async Task UpdateUser(string discordId, User user)
     {
-        _loggingService.LogInformation($"User Service: Updating user with id {id}");
-        await _userRepository.UpdateUser(id, user);
+        _loggingService.LogInformation($"User Service: Updating user with id {discordId}");
+        await _userRepository.UpdateUser(discordId, user);
     }
 
-    public async Task DeleteUser(string id)
+    public async Task DeleteUser(string discordId)
     {
-        _loggingService.LogInformation($"User Service: Deleting user with id {id}");
-        await _userRepository.DeleteUser(id);
+        _loggingService.LogInformation($"User Service: Deleting user with id {discordId}");
+        await _userRepository.DeleteUser(discordId);
     }
 }

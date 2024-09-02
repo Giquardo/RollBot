@@ -29,5 +29,34 @@ public class UserController : ControllerBase
         return await _userService.GetUsers();
     }
 
+    [HttpGet("{discordId}")]
+    public async Task<User> GetUser(string discordId)
+    {
+        _loggingService.LogInformation($"User Controller: Getting user with id {discordId}");
+        return await _userService.GetUser(discordId);
+    }
+
+    [HttpPost]
+    public async Task<User> CreateUser([FromBody] User user)
+    {
+        _loggingService.LogInformation($"User Controller: Creating user with id {user.DiscordId}");
+        return await _userService.CreateUser(user);
+    }
+
+    [HttpPut("{discordId}")]
+    public async Task UpdateUser(string discordId, [FromBody] User user)
+    {
+        _loggingService.LogInformation($"User Controller: Updating user with id {discordId}");
+        await _userService.UpdateUser(discordId, user);
+    }
+
+    [HttpDelete("{discordId}")]
+    public async Task DeleteUser(string discordId)
+    {
+        _loggingService.LogInformation($"User Controller: Deleting user with id {discordId}");
+        await _userService.DeleteUser(discordId);
+    }
+
+
 
 }

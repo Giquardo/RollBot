@@ -1,3 +1,286 @@
 2024-09-01 22:53:24 [Information] - User Controller: Getting all users
 2024-09-01 22:53:24 [Information] - User Service: Getting all users
 2024-09-01 22:53:24 [Information] - User Repository: Getting all users
+2024-09-01 22:55:13 [Information] - User Controller: Creating user with id 282890968359763980
+2024-09-01 22:55:13 [Information] - User Service: Creating user with id 282890968359763980
+2024-09-01 22:55:13 [Information] - User Repository: Creating user with id 282890968359763980
+2024-09-01 22:56:14 [Information] - User Controller: Creating user with id 282890968359763980
+2024-09-01 22:56:14 [Information] - User Service: Creating user with id 282890968359763980
+2024-09-01 22:56:14 [Information] - User Repository: Creating user with id 282890968359763980
+2024-09-01 22:58:44 [Information] - User Controller: Creating user with id 282890968359763980
+2024-09-01 22:58:44 [Information] - User Service: Creating user with id 282890968359763980
+2024-09-01 22:58:44 [Information] - User Repository: Creating user with id 282890968359763980
+2024-09-01 23:03:09 [Information] - User Controller: Getting all users
+2024-09-01 23:03:09 [Information] - User Service: Getting all users
+2024-09-01 23:03:09 [Information] - User Repository: Getting all users
+2024-09-01 23:03:43 [Information] - User Controller: Creating user with id 218984408823234562
+2024-09-01 23:03:43 [Information] - User Service: Creating user with id 218984408823234562
+2024-09-01 23:03:43 [Information] - User Repository: Creating user with id 218984408823234562
+2024-09-01 23:03:50 [Information] - User Controller: Getting all users
+2024-09-01 23:03:50 [Information] - User Service: Getting all users
+2024-09-01 23:03:50 [Information] - User Repository: Getting all users
+2024-09-01 23:11:04 [Information] - User Controller: Getting all users
+2024-09-01 23:11:04 [Information] - User Service: Getting all users
+2024-09-01 23:11:04 [Information] - User Repository: Getting all users
+2024-09-01 23:44:23 [Information] - Serie Controller: Getting all series
+2024-09-01 23:44:23 [Information] - CharacterSerie Service: Getting all series
+2024-09-01 23:44:23 [Information] - Serie Repository: Getting all series
+2024-09-02 00:02:30 [Information] - Serie Controller: Creating multiple series
+2024-09-02 00:02:30 [Information] - CharacterSerie Service: Creating serie with id 66d4e476e436c72f0a624c69
+2024-09-02 00:02:30 [Information] - Serie Repository: Creating serie with id 66d4e476e436c72f0a624c69
+2024-09-02 00:02:30 [Information] - CharacterSerie Service: Creating serie with id 66d4e476e436c72f0a624c6a
+2024-09-02 00:02:30 [Information] - Serie Repository: Creating serie with id 66d4e476e436c72f0a624c6a
+2024-09-02 00:02:30 [Information] - CharacterSerie Service: Creating serie with id 66d4e476e436c72f0a624c6b
+2024-09-02 00:02:30 [Information] - Serie Repository: Creating serie with id 66d4e476e436c72f0a624c6b
+2024-09-02 00:02:37 [Information] - Serie Controller: Getting all series
+2024-09-02 00:02:37 [Information] - CharacterSerie Service: Getting all series
+2024-09-02 00:02:37 [Information] - Serie Repository: Getting all series
+2024-09-02 09:32:33 [Information] - Serie Controller: Getting all series
+2024-09-02 09:32:33 [Information] - CharacterSerie Service: Getting all series
+2024-09-02 09:32:33 [Information] - Serie Repository: Getting all series
+2024-09-02 09:32:45 [Information] - Serie Controller: Creating serie with name BMS
+2024-09-02 09:32:45 [Information] - CharacterSerieService: Creating serie with name BMS
+2024-09-02 09:32:45 [Information] - Tag Repository: Getting tag with name College
+2024-09-02 09:32:45 [Information] - Tag Repository: Creating tag with name College
+2024-09-02 09:32:45 [Information] - Serie Repository: Creating serie with id 66d56a1dd42c23081b3c2257
+2024-09-02 09:32:51 [Information] - Serie Controller: Getting all series
+2024-09-02 09:32:51 [Information] - CharacterSerie Service: Getting all series
+2024-09-02 09:32:51 [Information] - Serie Repository: Getting all series
+2024-09-02 09:32:55 [Information] - Serie Controller: Getting all series
+2024-09-02 09:32:55 [Information] - CharacterSerie Service: Getting all series
+2024-09-02 09:32:55 [Information] - Serie Repository: Getting all series
+2024-09-02 09:37:50 [Information] - Serie Controller: Deleting serie with id 66d56a1dd42c23081b3c2257
+2024-09-02 09:37:50 [Information] - CharacterSerie Service: Deleting serie with id 66d56a1dd42c23081b3c2257
+2024-09-02 09:37:50 [Information] - Serie Repository: Getting serie with id 66d56a1dd42c23081b3c2257
+2024-09-02 09:37:50 [Information] - Serie Repository: Deleting serie with id 66d56a1dd42c23081b3c2257
+2024-09-02 09:37:58 [Information] - Serie Controller: Getting all series
+2024-09-02 09:37:58 [Information] - CharacterSerie Service: Getting all series
+2024-09-02 09:37:58 [Information] - Serie Repository: Getting all series
+2024-09-02 09:44:55 [Information] - Character Controller: Getting all characters
+2024-09-02 09:44:55 [Information] - CharacterSerie Service: Getting all characters
+2024-09-02 09:44:55 [Information] - Character Repository: Getting all characters
+2024-09-02 09:45:14 [Information] - Serie Controller: Creating serie with name BMS
+2024-09-02 09:45:14 [Information] - CharacterSerieService: Creating serie with name BMS
+2024-09-02 09:45:14 [Information] - Tag Repository: Getting tag with name College
+2024-09-02 09:45:14 [Information] - Serie Repository: Creating serie with id 66d56d0a1c192e2bec5b7c02
+2024-09-02 09:47:06 [Information] - Serie Controller: Getting all series
+2024-09-02 09:47:06 [Information] - CharacterSerie Service: Getting all series
+2024-09-02 09:47:06 [Information] - Serie Repository: Getting all series
+2024-09-02 09:56:48 [Information] - Serie Controller: Getting all series
+2024-09-02 09:56:48 [Information] - CharacterSerie Service: Getting all series
+2024-09-02 09:56:48 [Information] - Serie Repository: Getting all series
+2024-09-02 09:57:01 [Information] - Character Controller: Creating character with name Thas Castle
+2024-09-02 09:57:01 [Information] - CharacterSerie Service: Creating character with id 66d56fcd7205cbf98332b8e0
+2024-09-02 09:57:01 [Information] - Character Repository: Creating character with id 66d56fcd7205cbf98332b8e0
+2024-09-02 10:16:45 [Information] - Serie Controller: Creating serie with name Blue Mountain State
+2024-09-02 10:16:45 [Information] - CharacterSerieService: Creating serie with name Blue Mountain State
+2024-09-02 10:16:45 [Information] - Tag Repository: Getting tag with name College
+2024-09-02 10:16:46 [Information] - Tag Repository: Creating tag with name College
+2024-09-02 10:16:46 [Information] - Serie Repository: Creating serie with id 000000000000000000000000
+2024-09-02 10:17:51 [Information] - Serie Controller: Getting all series
+2024-09-02 10:17:51 [Information] - CharacterSerie Service: Getting all series
+2024-09-02 10:17:51 [Information] - Serie Repository: Getting all series
+2024-09-02 10:17:56 [Information] - Serie Controller: Getting all series
+2024-09-02 10:17:56 [Information] - CharacterSerie Service: Getting all series
+2024-09-02 10:17:56 [Information] - Serie Repository: Getting all series
+2024-09-02 10:18:11 [Information] - Serie Controller: Getting all series
+2024-09-02 10:18:11 [Information] - CharacterSerie Service: Getting all series
+2024-09-02 10:18:11 [Information] - Serie Repository: Getting all series
+2024-09-02 10:18:56 [Information] - Character Controller: Getting all characters
+2024-09-02 10:18:56 [Information] - CharacterSerie Service: Getting all characters
+2024-09-02 10:18:56 [Information] - Character Repository: Getting all characters
+2024-09-02 10:19:07 [Information] - Character Controller: Creating character with name Thad Castle
+2024-09-02 10:19:07 [Information] - CharacterSerie Service: Creating character with id 66d574fb045a6a6afa23faa0
+2024-09-02 10:19:07 [Information] - Character Repository: Creating character with id 66d574fb045a6a6afa23faa0
+2024-09-02 10:22:07 [Information] - Serie Controller: Getting all series
+2024-09-02 10:22:07 [Information] - CharacterSerie Service: Getting all series
+2024-09-02 10:22:07 [Information] - Serie Repository: Getting all series
+2024-09-02 10:26:53 [Information] - Serie Controller: Getting all series
+2024-09-02 10:26:53 [Information] - CharacterSerie Service: Getting all series
+2024-09-02 10:26:53 [Information] - Serie Repository: Getting all series
+2024-09-02 10:33:23 [Information] - Serie Controller: Getting all series
+2024-09-02 10:33:23 [Information] - CharacterSerie Service: Getting all series
+2024-09-02 10:33:23 [Information] - Serie Repository: Getting all series
+2024-09-02 10:33:33 [Information] - Serie Controller: Getting serie with name Blue Mountain State
+2024-09-02 10:33:33 [Information] - CharacterSerie Service: Getting serie with name Blue Mountain State
+2024-09-02 10:33:33 [Information] - Serie Repository: Getting serie with name Blue Mountain State
+2024-09-02 10:33:38 [Information] - Serie Controller: Getting serie with name Blue Mountain Stat
+2024-09-02 10:33:38 [Information] - CharacterSerie Service: Getting serie with name Blue Mountain Stat
+2024-09-02 10:33:38 [Information] - Serie Repository: Getting serie with name Blue Mountain Stat
+2024-09-02 10:39:33 [Information] - Serie Controller: Getting all series
+2024-09-02 10:39:33 [Information] - CharacterSerie Service: Getting all series
+2024-09-02 10:39:33 [Information] - Serie Repository: Getting all series
+2024-09-02 10:47:31 [Information] - Serie Controller: Creating batch of series
+2024-09-02 10:47:31 [Information] - CharacterSerieService: Creating serie with name Blue Mountain State
+2024-09-02 10:47:31 [Information] - Tag Repository: Getting tag with name Comedy
+2024-09-02 10:47:31 [Information] - Tag Repository: Creating tag with name Comedy
+2024-09-02 10:47:31 [Information] - Tag Repository: Getting tag with name Series
+2024-09-02 10:47:31 [Information] - Tag Repository: Creating tag with name Series
+2024-09-02 10:47:31 [Information] - Tag Repository: Getting tag with name Sports
+2024-09-02 10:47:31 [Information] - Tag Repository: Creating tag with name Sports
+2024-09-02 10:47:31 [Information] - Tag Repository: Getting tag with name Drama
+2024-09-02 10:47:31 [Information] - Tag Repository: Creating tag with name Drama
+2024-09-02 10:47:31 [Information] - Serie Repository: Creating serie with id 000000000000000000000000
+2024-09-02 10:47:31 [Information] - CharacterSerieService: Creating serie with name Brooklyn Nine-Nine
+2024-09-02 10:47:31 [Information] - Tag Repository: Getting tag with name Comedy
+2024-09-02 10:47:31 [Information] - Tag Repository: Getting tag with name Crime
+2024-09-02 10:47:31 [Information] - Tag Repository: Creating tag with name Crime
+2024-09-02 10:47:31 [Information] - Tag Repository: Getting tag with name Drama
+2024-09-02 10:47:31 [Information] - Serie Repository: Creating serie with id 000000000000000000000000
+2024-09-02 10:47:31 [Information] - CharacterSerieService: Creating serie with name Dexter
+2024-09-02 10:47:31 [Information] - Tag Repository: Getting tag with name Drama
+2024-09-02 10:47:31 [Information] - Tag Repository: Getting tag with name Crime
+2024-09-02 10:47:31 [Information] - Tag Repository: Getting tag with name Thriller
+2024-09-02 10:47:31 [Information] - Tag Repository: Creating tag with name Thriller
+2024-09-02 10:47:31 [Information] - Serie Repository: Creating serie with id 000000000000000000000000
+2024-09-02 10:51:14 [Information] - Serie Controller: Getting all series
+2024-09-02 10:51:14 [Information] - CharacterSerie Service: Getting all series
+2024-09-02 10:51:14 [Information] - Serie Repository: Getting all series
+2024-09-02 11:30:45 [Information] - Serie Controller: Getting all series
+2024-09-02 11:30:45 [Information] - CharacterSerie Service: Getting all series
+2024-09-02 11:30:45 [Information] - Serie Repository: Getting all series
+2024-09-02 11:30:45 [Information] - CharacterSerie Service: Getting character names by ids
+2024-09-02 11:30:45 [Information] - Character Repository: Getting character names by ids
+2024-09-02 11:30:46 [Information] - Tag Repository: Getting tag names by ids
+2024-09-02 11:30:46 [Information] - CharacterSerie Service: Getting character names by ids
+2024-09-02 11:30:46 [Information] - Character Repository: Getting character names by ids
+2024-09-02 11:30:46 [Information] - Tag Repository: Getting tag names by ids
+2024-09-02 11:30:46 [Information] - CharacterSerie Service: Getting character names by ids
+2024-09-02 11:30:46 [Information] - Character Repository: Getting character names by ids
+2024-09-02 11:30:46 [Information] - Tag Repository: Getting tag names by ids
+2024-09-02 11:31:24 [Information] - Character Controller: Creating character with name Thad Castle
+2024-09-02 11:31:24 [Information] - CharacterSerie Service: Creating character with id 66d585ece75d8e0d447ed002
+2024-09-02 11:31:24 [Information] - Character Repository: Creating character with id 66d585ece75d8e0d447ed002
+2024-09-02 11:31:29 [Information] - Character Controller: Getting all characters
+2024-09-02 11:31:29 [Information] - CharacterSerie Service: Getting all characters
+2024-09-02 11:31:29 [Information] - Character Repository: Getting all characters
+2024-09-02 11:31:54 [Information] - Serie Controller: Getting all series
+2024-09-02 11:31:54 [Information] - CharacterSerie Service: Getting all series
+2024-09-02 11:31:54 [Information] - Serie Repository: Getting all series
+2024-09-02 11:31:54 [Information] - CharacterSerie Service: Getting character names by ids
+2024-09-02 11:31:54 [Information] - Character Repository: Getting character names by ids
+2024-09-02 11:31:54 [Information] - Tag Repository: Getting tag names by ids
+2024-09-02 11:31:54 [Information] - CharacterSerie Service: Getting character names by ids
+2024-09-02 11:31:54 [Information] - Character Repository: Getting character names by ids
+2024-09-02 11:31:54 [Information] - Tag Repository: Getting tag names by ids
+2024-09-02 11:31:54 [Information] - CharacterSerie Service: Getting character names by ids
+2024-09-02 11:31:54 [Information] - Character Repository: Getting character names by ids
+2024-09-02 11:31:54 [Information] - Tag Repository: Getting tag names by ids
+2024-09-02 11:37:25 [Information] - Serie Controller: Getting all series
+2024-09-02 11:37:25 [Information] - CharacterSerie Service: Getting all series
+2024-09-02 11:37:25 [Information] - Serie Repository: Getting all series
+2024-09-02 11:37:25 [Information] - CharacterSerie Service: Getting character names by ids
+2024-09-02 11:37:25 [Information] - Character Repository: Getting character names by ids
+2024-09-02 11:37:25 [Information] - Tag Repository: Getting tag names by ids
+2024-09-02 11:37:25 [Information] - CharacterSerie Service: Getting character names by ids
+2024-09-02 11:37:25 [Information] - Character Repository: Getting character names by ids
+2024-09-02 11:37:25 [Information] - Tag Repository: Getting tag names by ids
+2024-09-02 11:37:25 [Information] - CharacterSerie Service: Getting character names by ids
+2024-09-02 11:37:25 [Information] - Character Repository: Getting character names by ids
+2024-09-02 11:37:25 [Information] - Tag Repository: Getting tag names by ids
+2024-09-02 11:49:21 [Information] - Character Controller: Creating batch of characters
+2024-09-02 11:50:04 [Information] - Character Controller: Creating batch of characters
+2024-09-02 12:02:14 [Information] - Character Controller: Creating batch of characters
+2024-09-02 12:02:14 [Information] - CharacterSerie Service: Creating character with id 66d58d260b2dd8c1b6b084fb
+2024-09-02 12:02:14 [Information] - Character Repository: Creating character with id 66d58d260b2dd8c1b6b084fb
+2024-09-02 12:02:15 [Information] - CharacterSerie Service: Creating character with id 66d58d270b2dd8c1b6b084fc
+2024-09-02 12:02:15 [Information] - Character Repository: Creating character with id 66d58d270b2dd8c1b6b084fc
+2024-09-02 12:02:15 [Information] - CharacterSerie Service: Creating character with id 66d58d270b2dd8c1b6b084fd
+2024-09-02 12:02:15 [Information] - Character Repository: Creating character with id 66d58d270b2dd8c1b6b084fd
+2024-09-02 12:02:15 [Information] - CharacterSerie Service: Creating character with id 66d58d270b2dd8c1b6b084fe
+2024-09-02 12:02:15 [Information] - Character Repository: Creating character with id 66d58d270b2dd8c1b6b084fe
+2024-09-02 12:02:15 [Information] - CharacterSerie Service: Creating character with id 66d58d270b2dd8c1b6b084ff
+2024-09-02 12:02:15 [Information] - Character Repository: Creating character with id 66d58d270b2dd8c1b6b084ff
+2024-09-02 12:02:15 [Information] - CharacterSerie Service: Creating character with id 66d58d270b2dd8c1b6b08500
+2024-09-02 12:02:15 [Information] - Character Repository: Creating character with id 66d58d270b2dd8c1b6b08500
+2024-09-02 12:02:15 [Information] - CharacterSerie Service: Creating character with id 66d58d270b2dd8c1b6b08501
+2024-09-02 12:02:15 [Information] - Character Repository: Creating character with id 66d58d270b2dd8c1b6b08501
+2024-09-02 12:02:15 [Information] - CharacterSerie Service: Creating character with id 66d58d270b2dd8c1b6b08502
+2024-09-02 12:02:15 [Information] - Character Repository: Creating character with id 66d58d270b2dd8c1b6b08502
+2024-09-02 12:02:15 [Information] - CharacterSerie Service: Creating character with id 66d58d270b2dd8c1b6b08503
+2024-09-02 12:02:15 [Information] - Character Repository: Creating character with id 66d58d270b2dd8c1b6b08503
+2024-09-02 12:02:15 [Information] - CharacterSerie Service: Creating character with id 66d58d270b2dd8c1b6b08504
+2024-09-02 12:02:15 [Information] - Character Repository: Creating character with id 66d58d270b2dd8c1b6b08504
+2024-09-02 12:02:15 [Information] - CharacterSerie Service: Creating character with id 66d58d270b2dd8c1b6b08505
+2024-09-02 12:02:15 [Information] - Character Repository: Creating character with id 66d58d270b2dd8c1b6b08505
+2024-09-02 12:02:15 [Information] - CharacterSerie Service: Creating character with id 66d58d270b2dd8c1b6b08506
+2024-09-02 12:02:15 [Information] - Character Repository: Creating character with id 66d58d270b2dd8c1b6b08506
+2024-09-02 12:02:15 [Information] - CharacterSerie Service: Creating character with id 66d58d270b2dd8c1b6b08507
+2024-09-02 12:02:15 [Information] - Character Repository: Creating character with id 66d58d270b2dd8c1b6b08507
+2024-09-02 12:02:15 [Information] - CharacterSerie Service: Creating character with id 66d58d270b2dd8c1b6b08508
+2024-09-02 12:02:15 [Information] - Character Repository: Creating character with id 66d58d270b2dd8c1b6b08508
+2024-09-02 12:02:15 [Information] - CharacterSerie Service: Creating character with id 66d58d270b2dd8c1b6b08509
+2024-09-02 12:02:15 [Information] - Character Repository: Creating character with id 66d58d270b2dd8c1b6b08509
+2024-09-02 12:02:15 [Information] - CharacterSerie Service: Creating character with id 66d58d270b2dd8c1b6b0850a
+2024-09-02 12:02:15 [Information] - Character Repository: Creating character with id 66d58d270b2dd8c1b6b0850a
+2024-09-02 12:02:15 [Information] - CharacterSerie Service: Creating character with id 66d58d270b2dd8c1b6b0850b
+2024-09-02 12:02:15 [Information] - Character Repository: Creating character with id 66d58d270b2dd8c1b6b0850b
+2024-09-02 12:02:15 [Information] - CharacterSerie Service: Creating character with id 66d58d270b2dd8c1b6b0850c
+2024-09-02 12:02:15 [Information] - Character Repository: Creating character with id 66d58d270b2dd8c1b6b0850c
+2024-09-02 12:02:15 [Information] - CharacterSerie Service: Creating character with id 66d58d270b2dd8c1b6b0850d
+2024-09-02 12:02:15 [Information] - Character Repository: Creating character with id 66d58d270b2dd8c1b6b0850d
+2024-09-02 12:02:15 [Information] - CharacterSerie Service: Creating character with id 66d58d270b2dd8c1b6b0850e
+2024-09-02 12:02:15 [Information] - Character Repository: Creating character with id 66d58d270b2dd8c1b6b0850e
+2024-09-02 12:02:15 [Information] - CharacterSerie Service: Creating character with id 66d58d270b2dd8c1b6b0850f
+2024-09-02 12:02:15 [Information] - Character Repository: Creating character with id 66d58d270b2dd8c1b6b0850f
+2024-09-02 12:02:15 [Information] - CharacterSerie Service: Creating character with id 66d58d270b2dd8c1b6b08510
+2024-09-02 12:02:15 [Information] - Character Repository: Creating character with id 66d58d270b2dd8c1b6b08510
+2024-09-02 12:02:15 [Information] - CharacterSerie Service: Creating character with id 66d58d270b2dd8c1b6b08511
+2024-09-02 12:02:15 [Information] - Character Repository: Creating character with id 66d58d270b2dd8c1b6b08511
+2024-09-02 12:02:15 [Information] - CharacterSerie Service: Creating character with id 66d58d270b2dd8c1b6b08512
+2024-09-02 12:02:15 [Information] - Character Repository: Creating character with id 66d58d270b2dd8c1b6b08512
+2024-09-02 12:02:15 [Information] - CharacterSerie Service: Creating character with id 66d58d270b2dd8c1b6b08513
+2024-09-02 12:02:15 [Information] - Character Repository: Creating character with id 66d58d270b2dd8c1b6b08513
+2024-09-02 12:08:57 [Information] - Serie Controller: Getting all series
+2024-09-02 12:08:57 [Information] - CharacterSerie Service: Getting all series
+2024-09-02 12:08:57 [Information] - Serie Repository: Getting all series
+2024-09-02 12:08:57 [Information] - CharacterSerie Service: Getting character names by ids
+2024-09-02 12:08:57 [Information] - Character Repository: Getting character names by ids
+2024-09-02 12:08:57 [Information] - Tag Repository: Getting tag names by ids
+2024-09-02 12:08:57 [Information] - CharacterSerie Service: Getting character names by ids
+2024-09-02 12:08:57 [Information] - Character Repository: Getting character names by ids
+2024-09-02 12:08:57 [Information] - Tag Repository: Getting tag names by ids
+2024-09-02 12:08:57 [Information] - CharacterSerie Service: Getting character names by ids
+2024-09-02 12:08:57 [Information] - Character Repository: Getting character names by ids
+2024-09-02 12:08:57 [Information] - Tag Repository: Getting tag names by ids
+2024-09-02 12:17:10 [Information] - Character Controller: Creating batch of characters
+2024-09-02 12:17:10 [Information] - CharacterSerie Service: Creating character with id 66d590a60b2dd8c1b6b08537
+2024-09-02 12:17:10 [Information] - Character Repository: Creating character with id 66d590a60b2dd8c1b6b08537
+2024-09-02 12:17:10 [Information] - CharacterSerie Service: Creating character with id 66d590a60b2dd8c1b6b08538
+2024-09-02 12:17:10 [Information] - Character Repository: Creating character with id 66d590a60b2dd8c1b6b08538
+2024-09-02 12:17:10 [Information] - CharacterSerie Service: Creating character with id 66d590a60b2dd8c1b6b08539
+2024-09-02 12:17:10 [Information] - Character Repository: Creating character with id 66d590a60b2dd8c1b6b08539
+2024-09-02 12:17:10 [Information] - CharacterSerie Service: Creating character with id 66d590a60b2dd8c1b6b0853a
+2024-09-02 12:17:10 [Information] - Character Repository: Creating character with id 66d590a60b2dd8c1b6b0853a
+2024-09-02 12:17:10 [Information] - CharacterSerie Service: Creating character with id 66d590a60b2dd8c1b6b0853b
+2024-09-02 12:17:10 [Information] - Character Repository: Creating character with id 66d590a60b2dd8c1b6b0853b
+2024-09-02 12:17:10 [Information] - CharacterSerie Service: Creating character with id 66d590a60b2dd8c1b6b0853c
+2024-09-02 12:17:10 [Information] - Character Repository: Creating character with id 66d590a60b2dd8c1b6b0853c
+2024-09-02 12:17:10 [Information] - CharacterSerie Service: Creating character with id 66d590a60b2dd8c1b6b0853d
+2024-09-02 12:17:10 [Information] - Character Repository: Creating character with id 66d590a60b2dd8c1b6b0853d
+2024-09-02 12:17:10 [Information] - CharacterSerie Service: Creating character with id 66d590a60b2dd8c1b6b0853e
+2024-09-02 12:17:10 [Information] - Character Repository: Creating character with id 66d590a60b2dd8c1b6b0853e
+2024-09-02 12:17:10 [Information] - CharacterSerie Service: Creating character with id 66d590a60b2dd8c1b6b0853f
+2024-09-02 12:17:10 [Information] - Character Repository: Creating character with id 66d590a60b2dd8c1b6b0853f
+2024-09-02 12:17:10 [Information] - CharacterSerie Service: Creating character with id 66d590a60b2dd8c1b6b08540
+2024-09-02 12:17:10 [Information] - Character Repository: Creating character with id 66d590a60b2dd8c1b6b08540
+2024-09-02 12:17:10 [Information] - CharacterSerie Service: Creating character with id 66d590a60b2dd8c1b6b08541
+2024-09-02 12:17:10 [Information] - Character Repository: Creating character with id 66d590a60b2dd8c1b6b08541
+2024-09-02 12:17:10 [Information] - CharacterSerie Service: Creating character with id 66d590a60b2dd8c1b6b08542
+2024-09-02 12:17:10 [Information] - Character Repository: Creating character with id 66d590a60b2dd8c1b6b08542
+2024-09-02 12:17:10 [Information] - CharacterSerie Service: Creating character with id 66d590a60b2dd8c1b6b08543
+2024-09-02 12:17:10 [Information] - Character Repository: Creating character with id 66d590a60b2dd8c1b6b08543
+2024-09-02 12:17:10 [Information] - CharacterSerie Service: Creating character with id 66d590a60b2dd8c1b6b08544
+2024-09-02 12:17:10 [Information] - Character Repository: Creating character with id 66d590a60b2dd8c1b6b08544
+2024-09-02 12:17:10 [Information] - CharacterSerie Service: Creating character with id 66d590a60b2dd8c1b6b08545
+2024-09-02 12:17:10 [Information] - Character Repository: Creating character with id 66d590a60b2dd8c1b6b08545
+2024-09-02 12:17:10 [Information] - CharacterSerie Service: Creating character with id 66d590a60b2dd8c1b6b08546
+2024-09-02 12:17:10 [Information] - Character Repository: Creating character with id 66d590a60b2dd8c1b6b08546
+2024-09-02 12:17:10 [Information] - CharacterSerie Service: Creating character with id 66d590a60b2dd8c1b6b08547
+2024-09-02 12:17:10 [Information] - Character Repository: Creating character with id 66d590a60b2dd8c1b6b08547
+2024-09-02 12:17:10 [Information] - CharacterSerie Service: Creating character with id 66d590a60b2dd8c1b6b08548
+2024-09-02 12:17:10 [Information] - Character Repository: Creating character with id 66d590a60b2dd8c1b6b08548
+2024-09-02 12:17:10 [Information] - CharacterSerie Service: Creating character with id 66d590a60b2dd8c1b6b08549
+2024-09-02 12:17:10 [Information] - Character Repository: Creating character with id 66d590a60b2dd8c1b6b08549
+2024-09-02 12:17:10 [Information] - CharacterSerie Service: Creating character with id 66d590a60b2dd8c1b6b0854a
+2024-09-02 12:17:10 [Information] - Character Repository: Creating character with id 66d590a60b2dd8c1b6b0854a
