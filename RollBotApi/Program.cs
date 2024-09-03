@@ -35,13 +35,18 @@ public class Program
         builder.Services.AddSingleton<ICharacterRepository, CharacterRepository>();
         builder.Services.AddSingleton<ISerieRepository, SerieRepository>();
         builder.Services.AddSingleton<ITagRepository, TagRepository>();
+        builder.Services.AddSingleton<ICardPackRepository, CardPackRepository>();
 
         // Register the services
         builder.Services.AddTransient<IUserService, UserService>();
         builder.Services.AddTransient<ICharacterSerieService, CharacterSerieService>();
+        builder.Services.AddTransient<ICardPackService, CardPackService>();
 
         // Register the logging service
         builder.Services.AddSingleton<ILoggingService>(new LoggingService("Logs/custom_log.txt"));
+
+        // Register the user balance increment service
+        builder.Services.AddHostedService<UserBalanceIncrementService>();
 
         // Register the controllers
         builder.Services.AddControllers();
@@ -66,11 +71,7 @@ public class Program
 
         app.MapControllers();
 
-
-        //app.Run("http://localhost:3000");
-        app.Run("http://0.0.0.0:3000");
-
-        
-
+        app.Run("http://localhost:3000");
+        //app.Run("http://0.0.0.0:3000");
     }
 }

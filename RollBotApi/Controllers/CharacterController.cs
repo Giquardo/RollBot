@@ -6,6 +6,9 @@ using RollBotApi.Services;
 using AutoMapper;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using RollBotApi.Profiles;
+using System.Linq;
+
 
 namespace RollBotApi.Controllers
 {
@@ -25,17 +28,20 @@ namespace RollBotApi.Controllers
         }
 
         [HttpGet]
-        public async Task<IEnumerable<Character>> GetCharactersAsync()
+        public async Task<IEnumerable<CharacterDisplayDto>> GetCharactersAsync()
         {
             _loggingService.LogInformation("Character Controller: Getting all characters");
-            return await _characterSerieService.GetCharactersAsync();
+            var characters = await _characterSerieService.GetCharactersAsync();
+            var displayCharacters = _mapper.Map<IEnumerable<CharacterDisplayDto>>(characters);
+            return displayCharacters;
         }
 
         [HttpGet("{id}")]
-        public async Task<Character> GetCharacterByIdAsync(string id)
+        public async Task<CharacterDisplayDto> GetCharacterByIdAsync(string id)
         {
             _loggingService.LogInformation($"Character Controller: Getting character with id {id}");
-            return await _characterSerieService.GetCharacterByIdAsync(id);
+            var character = await _characterSerieService.GetCharacterByIdAsync(id);
+            return _mapper.Map<CharacterDisplayDto>(character);
         }
 
         [HttpPost]
@@ -92,6 +98,6 @@ namespace RollBotApi.Controllers
                 await _characterSerieService.DeleteCharacterAsync(id);
                 await _characterSerieService.RemoveCharacterFromSerieAsync(character.SerieId, character.Id);
             }
-        } 
+        }
     }
 }

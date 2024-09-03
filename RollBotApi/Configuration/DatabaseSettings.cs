@@ -8,7 +8,7 @@ public class DatabaseSettings
     public string SeriesCollection { get; set; } = string.Empty;
     public string CharactersCollection { get; set; } = string.Empty;
     public string TagsCollection { get; set; } = string.Empty;
+    public string CardPacksCollection { get; set; } = string.Empty;
 
     //public string CardsCollection { get; set; }
-    //public string CardPacksCollection { get; set; }
 }

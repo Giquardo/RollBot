@@ -1,0 +1,132 @@
+2024-09-03 17:49:37 [Information] - Starting bot...
+2024-09-03 17:49:37 [Information] - Configuration loaded.
+2024-09-03 17:49:37 [Information] - Registering commands...
+2024-09-03 17:49:37 [Information] - Commands registered.
+2024-09-03 17:49:38 [Information] - Bot connected.
+2024-09-03 17:49:38 [Information] - Bot is ready.
+2024-09-03 17:49:44 [Information] - Starting bot...
+2024-09-03 17:49:45 [Information] - Configuration loaded.
+2024-09-03 17:49:45 [Information] - Registering commands...
+2024-09-03 17:49:45 [Information] - Commands registered.
+2024-09-03 17:49:46 [Information] - Bot connected.
+2024-09-03 17:49:46 [Information] - Bot is ready.
+2024-09-03 17:51:46 [Information] - PROGRAM: Starting bot...
+2024-09-03 17:51:46 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 17:51:46 [Information] - PROGRAM: Registering commands...
+2024-09-03 17:51:46 [Information] - PROGRAM: Commands registered.
+2024-09-03 17:51:47 [Information] - PROGRAM: Bot connected.
+2024-09-03 17:51:47 [Information] - PROGRAM: Bot is ready.
+2024-09-03 17:53:33 [Information] - PROGRAM: Starting bot...
+2024-09-03 17:53:33 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 17:53:33 [Information] - PROGRAM: Registering commands...
+2024-09-03 17:53:33 [Information] - PROGRAM: Commands registered.
+2024-09-03 17:53:34 [Information] - PROGRAM: Bot connected.
+2024-09-03 17:53:34 [Information] - PROGRAM: Bot is ready.
+2024-09-03 17:53:43 [Information] - ROLLBOT COMMAND: Join alias command received
+2024-09-03 17:53:43 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 17:53:43 [Information] - ROLLBOT COMMAND: Processing join command for user 282890968359763980
+2024-09-03 17:53:43 [Information] - ROLLBOT COMMAND: GET /api/users/282890968359763980 responded with NotFound
+2024-09-03 17:53:43 [Information] - ROLLBOT COMMAND: Sending POST request to create user
+2024-09-03 17:53:43 [Information] - ROLLBOT COMMAND: POST /api/users responded with Created
+2024-09-03 17:53:46 [Information] - ROLLBOT COMMAND: Join alias command received
+2024-09-03 17:53:46 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 17:53:46 [Information] - ROLLBOT COMMAND: Processing join command for user 282890968359763980
+2024-09-03 17:53:46 [Information] - ROLLBOT COMMAND: GET /api/users/282890968359763980 responded with OK
+2024-09-03 17:54:27 [Information] - PROGRAM: Starting bot...
+2024-09-03 17:54:27 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 17:54:27 [Information] - PROGRAM: Registering commands...
+2024-09-03 17:54:27 [Information] - PROGRAM: Commands registered.
+2024-09-03 17:54:28 [Information] - PROGRAM: Bot connected.
+2024-09-03 17:54:29 [Information] - PROGRAM: Bot is ready.
+2024-09-03 17:54:30 [Information] - ROLLBOT COMMAND: Join alias command received
+2024-09-03 17:54:30 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 17:54:31 [Information] - ROLLBOT COMMAND: Processing join command for user 282890968359763980
+2024-09-03 17:54:31 [Information] - ROLLBOT COMMAND: GET /api/users/282890968359763980 responded with OK
+2024-09-03 17:57:10 [Information] - ROLLBOT COMMAND: Join alias command received
+2024-09-03 17:57:10 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 17:57:10 [Information] - ROLLBOT COMMAND: Processing join command for user 282890968359763980
+2024-09-03 17:57:10 [Information] - ROLLBOT COMMAND: GET /api/users/282890968359763980 responded with OK
+2024-09-03 17:57:30 [Information] - ROLLBOT COMMAND: Join command received
+2024-09-03 17:57:30 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 17:57:30 [Information] - ROLLBOT COMMAND: Processing join command for user 121331352808194049
+2024-09-03 17:57:30 [Information] - ROLLBOT COMMAND: GET /api/users/121331352808194049 responded with NotFound
+2024-09-03 17:57:30 [Information] - ROLLBOT COMMAND: Sending POST request to create user
+2024-09-03 17:57:30 [Information] - ROLLBOT COMMAND: POST /api/users responded with Created
+2024-09-03 17:57:38 [Information] - ROLLBOT COMMAND: Join command received
+2024-09-03 17:57:38 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 17:57:38 [Information] - ROLLBOT COMMAND: Processing join command for user 121331352808194049
+2024-09-03 17:57:38 [Information] - ROLLBOT COMMAND: GET /api/users/121331352808194049 responded with OK
+2024-09-03 18:01:18 [Information] - ROLLBOT COMMAND: Join command received
+2024-09-03 18:01:18 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 18:01:19 [Information] - ROLLBOT COMMAND: Processing join command for user 282890968359763980
+2024-09-03 18:01:19 [Information] - ROLLBOT COMMAND: GET /api/users/282890968359763980 responded with OK
+2024-09-03 18:01:36 [Information] - ROLLBOT COMMAND: Join command received
+2024-09-03 18:01:36 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 18:01:37 [Information] - ROLLBOT COMMAND: Processing join command for user 186197900894797829
+2024-09-03 18:01:37 [Information] - ROLLBOT COMMAND: GET /api/users/186197900894797829 responded with NotFound
+2024-09-03 18:01:37 [Information] - ROLLBOT COMMAND: Sending POST request to create user
+2024-09-03 18:01:37 [Information] - ROLLBOT COMMAND: POST /api/users responded with Created
+2024-09-03 18:01:44 [Information] - ROLLBOT COMMAND: Join alias command received
+2024-09-03 18:01:44 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 18:01:44 [Information] - ROLLBOT COMMAND: Processing join command for user 282890968359763980
+2024-09-03 18:01:44 [Information] - ROLLBOT COMMAND: GET /api/users/282890968359763980 responded with OK
+2024-09-03 18:01:47 [Information] - ROLLBOT COMMAND: Join command received
+2024-09-03 18:01:47 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 18:01:48 [Information] - ROLLBOT COMMAND: Processing join command for user 282890968359763980
+2024-09-03 18:01:48 [Information] - ROLLBOT COMMAND: GET /api/users/282890968359763980 responded with OK
+2024-09-03 18:02:02 [Error] - PROGRAM: Command error: Specified command was not found.: DSharpPlus.CommandsNext.Exceptions.CommandNotFoundException: Specified command was not found.
+Command name: rb
+2024-09-03 18:02:04 [Error] - PROGRAM: Command error: Specified command was not found.: DSharpPlus.CommandsNext.Exceptions.CommandNotFoundException: Specified command was not found.
+Command name: kys
+2024-09-03 18:17:04 [Information] - PROGRAM: Starting bot...
+2024-09-03 18:17:04 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 18:17:04 [Information] - PROGRAM: Registering commands...
+2024-09-03 18:17:04 [Information] - PROGRAM: Commands registered.
+2024-09-03 18:17:05 [Information] - PROGRAM: Bot connected.
+2024-09-03 18:17:06 [Information] - PROGRAM: Bot is ready.
+2024-09-03 18:31:10 [Information] - PROGRAM: Starting bot...
+2024-09-03 18:31:10 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 18:31:11 [Information] - PROGRAM: Registering commands...
+2024-09-03 18:31:11 [Information] - PROGRAM: Commands registered.
+2024-09-03 18:31:12 [Information] - PROGRAM: Bot connected.
+2024-09-03 18:31:12 [Information] - PROGRAM: Bot is ready.
+2024-09-03 18:31:41 [Information] - ROLLBOT COMMAND: Balance alias command received
+2024-09-03 18:31:41 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 18:31:41 [Information] - ROLLBOT COMMAND: Processing balance command for user 282890968359763980
+2024-09-03 18:31:41 [Information] - ROLLBOT COMMAND: GET /api/users/282890968359763980 responded with OK
+2024-09-03 18:31:45 [Information] - ROLLBOT COMMAND: Balance alias command received
+2024-09-03 18:31:45 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 18:31:46 [Information] - ROLLBOT COMMAND: Processing balance command for user 282890968359763980
+2024-09-03 18:31:46 [Information] - ROLLBOT COMMAND: GET /api/users/282890968359763980 responded with OK
+2024-09-03 18:47:08 [Information] - ROLLBOT COMMAND: Balance alias command received
+2024-09-03 18:47:08 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 18:47:08 [Information] - ROLLBOT COMMAND: Processing balance command for user 282890968359763980
+2024-09-03 18:47:08 [Information] - ROLLBOT COMMAND: GET /api/users/282890968359763980 responded with OK
+2024-09-03 18:47:16 [Information] - ROLLBOT COMMAND: Balance alias command received
+2024-09-03 18:47:16 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 18:47:16 [Information] - ROLLBOT COMMAND: Processing balance command for user 282890968359763980
+2024-09-03 18:47:16 [Information] - ROLLBOT COMMAND: GET /api/users/282890968359763980 responded with OK
+2024-09-03 18:47:16 [Information] - ROLLBOT COMMAND: Balance alias command received
+2024-09-03 18:47:16 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 18:47:16 [Information] - ROLLBOT COMMAND: Processing balance command for user 282890968359763980
+2024-09-03 18:47:16 [Information] - ROLLBOT COMMAND: GET /api/users/282890968359763980 responded with OK
+2024-09-03 18:47:18 [Information] - ROLLBOT COMMAND: Balance alias command received
+2024-09-03 18:47:18 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 18:47:19 [Information] - ROLLBOT COMMAND: Processing balance command for user 282890968359763980
+2024-09-03 18:47:19 [Information] - ROLLBOT COMMAND: GET /api/users/282890968359763980 responded with OK
+2024-09-03 18:47:21 [Information] - ROLLBOT COMMAND: Balance alias command received
+2024-09-03 18:47:21 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 18:47:21 [Information] - ROLLBOT COMMAND: Processing balance command for user 282890968359763980
+2024-09-03 18:47:21 [Information] - ROLLBOT COMMAND: GET /api/users/282890968359763980 responded with OK
+2024-09-03 18:47:23 [Information] - ROLLBOT COMMAND: Balance alias command received
+2024-09-03 18:47:23 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 18:47:24 [Information] - ROLLBOT COMMAND: Processing balance command for user 282890968359763980
+2024-09-03 18:47:24 [Information] - ROLLBOT COMMAND: GET /api/users/282890968359763980 responded with OK
+2024-09-03 18:47:26 [Information] - ROLLBOT COMMAND: Balance alias command received
+2024-09-03 18:47:26 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 18:47:26 [Information] - ROLLBOT COMMAND: Processing balance command for user 282890968359763980
+2024-09-03 18:47:26 [Information] - ROLLBOT COMMAND: GET /api/users/282890968359763980 responded with OK
+2024-09-03 18:47:28 [Information] - ROLLBOT COMMAND: Balance alias command received
+2024-09-03 18:47:28 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 18:47:29 [Information] - ROLLBOT COMMAND: Processing balance command for user 282890968359763980
+2024-09-03 18:47:29 [Information] - ROLLBOT COMMAND: GET /api/users/282890968359763980 responded with OK

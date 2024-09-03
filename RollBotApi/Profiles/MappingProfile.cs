@@ -3,6 +3,7 @@ using RollBotApi.Models;
 using RollBotApi.DTOs;
 
 namespace RollBotApi.Profiles;
+
 public class MappingProfile : Profile
 {
     public MappingProfile()
@@ -16,5 +17,16 @@ public class MappingProfile : Profile
             .ForMember(dest => dest.Id, opt => opt.MapFrom(src => src.Id.ToString()))
             .ForMember(dest => dest.Characters, opt => opt.Ignore()) // Ignore Characters for now
             .ForMember(dest => dest.Tags, opt => opt.Ignore()); // Ignore Tags for now
+
+        CreateMap<Character, CharacterDisplayDto>();
+
+        // Add mapping for NewUserDto to User
+        CreateMap<NewUserDto, User>()
+            .ForMember(dest => dest.Balance, opt => opt.MapFrom(src => 0)) // Initialize Balance
+            .ForMember(dest => dest.CardPacks, opt => opt.MapFrom(src => new List<CardPack>())) // Initialize CardPacks
+            .ForMember(dest => dest.Cards, opt => opt.MapFrom(src => new List<Card>())); // Initialize Cards
+
+        CreateMap<User, ReturnUserDto>()
+            .ForMember(dest => dest.CardPacks, opt => opt.MapFrom(src => src.CardPacks));
     }
 }

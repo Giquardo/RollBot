@@ -8,19 +8,33 @@ using DSharpPlus.EventArgs;
 using DSharpPlus.Interactivity;
 using DSharpPlus.Interactivity.Extensions;
 using DSharpPlus.SlashCommands;
+using Microsoft.Extensions.DependencyInjection;
 using Rollbot.Config;
 using RollBot.Commands;
+using RollBot.Services;
 
 namespace RollBot;
 
 public sealed class Program
 {
-    public static DiscordClient Client { get; set; }
-    public static CommandsNextExtension Commands { get; set; }
+    public static DiscordClient Client { get; set; } = null!;
+    public static CommandsNextExtension Commands { get; set; } = null!;
+    private static ILoggingService _logger = null!;
+
     static async Task Main(string[] args)
     {
+        var services = new ServiceCollection()
+            .AddSingleton(new HttpClient())
+            .AddSingleton<ILoggingService>(new LoggingService("logs/log.txt"))
+            .BuildServiceProvider();
+
+        _logger = services.GetRequiredService<ILoggingService>();
+
+        _logger.LogInformation("PROGRAM: Starting bot...");
+
         var jsonReader = new JSONReader();
         await jsonReader.ReadJSON();
+        _logger.LogInformation("PROGRAM: Configuration loaded.");
 
         var discordConfig = new DiscordConfiguration()
         {
@@ -28,7 +42,6 @@ public sealed class Program
             Token = jsonReader.token,
             TokenType = TokenType.Bot,
             AutoReconnect = true,
-
         };
 
         Client = new DiscordClient(discordConfig);
@@ -49,20 +62,30 @@ public sealed class Program
         };
 
         Commands = Client.UseCommandsNext(commandsConfig);
-        var slashCommandsConfiguration = Client.UseSlashCommands();
-
         Commands.CommandErrored += CommandEventHandler;
 
+        _logger.LogInformation("PROGRAM: Registering commands...");
+
+        var slashCommandsConfiguration = Client.UseSlashCommands(new SlashCommandsConfiguration
+        {
+            Services = services
+        });
 
         slashCommandsConfiguration.RegisterCommands<HelpCommand>();
         slashCommandsConfiguration.RegisterCommands<Calculator>();
+        slashCommandsConfiguration.RegisterCommands<RollBotCommands>();
+        _logger.LogInformation("PROGRAM: Commands registered.");
 
         await Client.ConnectAsync();
+        _logger.LogInformation("PROGRAM: Bot connected.");
+
         await Task.Delay(-1);
     }
 
     private static async Task CommandEventHandler(CommandsNextExtension sender, CommandErrorEventArgs e)
     {
+        _logger.LogError(e.Exception, $"PROGRAM: Command error: {e.Exception.Message}");
+
         if (e.Exception is ChecksFailedException exception)
         {
             string timeLeft = string.Empty;
@@ -85,6 +108,7 @@ public sealed class Program
 
     private static Task Client_Ready(DiscordClient sender, ReadyEventArgs args)
     {
+        _logger.LogInformation("PROGRAM: Bot is ready.");
         return Task.CompletedTask;
     }
 }

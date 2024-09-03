@@ -22,8 +22,8 @@ public interface IMongoContext
     IMongoCollection<Serie> SeriesCollection { get; }
     IMongoCollection<Character> CharactersCollection { get; }
     IMongoCollection<SerieTag> TagsCollection { get; }
+    IMongoCollection<CardPack> CardPacksCollection { get; }
     //IMongoCollection<Card> CardsCollection { get; }
-    //IMongoCollection<Pack> PacksCollection { get; }
 }
 
 public class MongoContext : IMongoContext
@@ -80,19 +80,20 @@ public class MongoContext : IMongoContext
         }
     }
 
+    public IMongoCollection<CardPack> CardPacksCollection
+    {
+        get
+        {
+            return _database.GetCollection<CardPack>(_settings.CardPacksCollection);
+        }
+    }
+
     // public IMongoCollection<Card> CardsCollection
     // {
     //     get
     //     {
-    //         return _database.GetCollection<Card>(_settings.CardsCollectionName);
+    //         return _database.GetCollection<Card>(_settings.CardsCollection);
     //     }
     // }
 
-    // public IMongoCollection<Pack> PacksCollection
-    // {
-    //     get
-    //     {
-    //         return _database.GetCollection<Pack>(_settings.PacksCollectionName);
-    //     }
-    // }
 }
