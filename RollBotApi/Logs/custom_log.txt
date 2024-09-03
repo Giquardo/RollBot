@@ -1405,3 +1405,838 @@
 2024-09-03 18:48:11 [Information] - User Repository: Updating user with id 282890968359763980
 2024-09-03 18:48:11 [Information] - User Repository: Updating user with id 121331352808194049
 2024-09-03 18:48:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 18:49:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 18:49:11 [Information] - User Repository: Getting all users
+2024-09-03 18:49:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 18:49:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 18:49:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 18:50:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 18:50:11 [Information] - User Repository: Getting all users
+2024-09-03 18:50:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 18:50:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 18:50:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 18:51:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 18:51:11 [Information] - User Repository: Getting all users
+2024-09-03 18:51:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 18:51:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 18:51:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 18:52:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 18:52:11 [Information] - User Repository: Getting all users
+2024-09-03 18:52:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 18:52:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 18:52:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 18:53:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 18:53:11 [Information] - User Repository: Getting all users
+2024-09-03 18:53:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 18:53:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 18:53:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 18:54:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 18:54:11 [Information] - User Repository: Getting all users
+2024-09-03 18:54:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 18:54:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 18:54:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 18:55:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 18:55:11 [Information] - User Repository: Getting all users
+2024-09-03 18:55:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 18:55:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 18:55:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 18:56:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 18:56:11 [Information] - User Repository: Getting all users
+2024-09-03 18:56:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 18:56:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 18:56:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 18:57:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 18:57:11 [Information] - User Repository: Getting all users
+2024-09-03 18:57:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 18:57:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 18:57:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 18:58:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 18:58:11 [Information] - User Repository: Getting all users
+2024-09-03 18:58:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 18:58:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 18:58:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 18:59:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 18:59:11 [Information] - User Repository: Getting all users
+2024-09-03 18:59:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 18:59:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 18:59:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:00:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:00:11 [Information] - User Repository: Getting all users
+2024-09-03 19:00:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:00:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:00:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:01:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:01:11 [Information] - User Repository: Getting all users
+2024-09-03 19:01:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:01:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:01:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:02:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:02:11 [Information] - User Repository: Getting all users
+2024-09-03 19:02:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:02:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:02:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:03:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:03:11 [Information] - User Repository: Getting all users
+2024-09-03 19:03:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:03:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:03:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:04:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:04:11 [Information] - User Repository: Getting all users
+2024-09-03 19:04:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:04:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:04:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:05:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:05:11 [Information] - User Repository: Getting all users
+2024-09-03 19:05:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:05:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:05:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:06:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:06:11 [Information] - User Repository: Getting all users
+2024-09-03 19:06:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:06:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:06:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:07:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:07:11 [Information] - User Repository: Getting all users
+2024-09-03 19:07:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:07:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:07:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:08:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:08:11 [Information] - User Repository: Getting all users
+2024-09-03 19:08:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:08:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:08:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:09:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:09:11 [Information] - User Repository: Getting all users
+2024-09-03 19:09:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:09:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:09:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:10:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:10:11 [Information] - User Repository: Getting all users
+2024-09-03 19:10:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:10:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:10:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:11:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:11:11 [Information] - User Repository: Getting all users
+2024-09-03 19:11:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:11:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:11:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:12:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:12:11 [Information] - User Repository: Getting all users
+2024-09-03 19:12:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:12:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:12:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:13:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:13:11 [Information] - User Repository: Getting all users
+2024-09-03 19:13:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:13:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:13:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:14:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:14:11 [Information] - User Repository: Getting all users
+2024-09-03 19:14:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:14:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:14:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:15:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:15:11 [Information] - User Repository: Getting all users
+2024-09-03 19:15:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:15:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:15:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:16:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:16:11 [Information] - User Repository: Getting all users
+2024-09-03 19:16:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:16:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:16:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:16:52 [Information] - User Controller: Getting user with id 218984408823234562
+2024-09-03 19:16:52 [Information] - User Service: Getting user with id 218984408823234562
+2024-09-03 19:16:52 [Information] - User Repository: Getting user with id 218984408823234562
+2024-09-03 19:16:52 [Information] - User Controller: Creating user with id 218984408823234562
+2024-09-03 19:16:52 [Information] - User Service: Getting user with id 218984408823234562
+2024-09-03 19:16:52 [Information] - User Repository: Getting user with id 218984408823234562
+2024-09-03 19:16:52 [Information] - User Service: Creating user with id 218984408823234562
+2024-09-03 19:16:52 [Information] - User Repository: Creating user with id 218984408823234562
+2024-09-03 19:17:02 [Information] - User Controller: Getting user with id 218984408823234562
+2024-09-03 19:17:02 [Information] - User Service: Getting user with id 218984408823234562
+2024-09-03 19:17:02 [Information] - User Repository: Getting user with id 218984408823234562
+2024-09-03 19:17:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:17:11 [Information] - User Repository: Getting all users
+2024-09-03 19:17:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:17:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:17:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:17:11 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:18:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:18:11 [Information] - User Repository: Getting all users
+2024-09-03 19:18:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:18:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:18:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:18:11 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:19:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:19:11 [Information] - User Repository: Getting all users
+2024-09-03 19:19:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:19:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:19:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:19:11 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:19:27 [Information] - User Controller: Getting all users
+2024-09-03 19:19:27 [Information] - User Service: Getting all users
+2024-09-03 19:19:27 [Information] - User Repository: Getting all users
+2024-09-03 19:20:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:20:11 [Information] - User Repository: Getting all users
+2024-09-03 19:20:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:20:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:20:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:20:11 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:21:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:21:11 [Information] - User Repository: Getting all users
+2024-09-03 19:21:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:21:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:21:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:21:11 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:22:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:22:11 [Information] - User Repository: Getting all users
+2024-09-03 19:22:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:22:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:22:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:22:11 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:23:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:23:11 [Information] - User Repository: Getting all users
+2024-09-03 19:23:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:23:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:23:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:23:11 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:24:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:24:11 [Information] - User Repository: Getting all users
+2024-09-03 19:24:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:24:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:24:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:24:11 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:24:58 [Information] - User Controller: Getting user with id 282890968359763980
+2024-09-03 19:24:58 [Information] - User Service: Getting user with id 282890968359763980
+2024-09-03 19:24:58 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:25:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:25:11 [Information] - User Repository: Getting all users
+2024-09-03 19:25:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:25:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:25:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:25:11 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:26:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:26:11 [Information] - User Repository: Getting all users
+2024-09-03 19:26:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:26:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:26:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:26:11 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:27:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:27:11 [Information] - User Repository: Getting all users
+2024-09-03 19:27:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:27:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:27:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:27:11 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:28:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:28:11 [Information] - User Repository: Getting all users
+2024-09-03 19:28:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:28:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:28:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:28:11 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:29:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:29:11 [Information] - User Repository: Getting all users
+2024-09-03 19:29:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:29:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:29:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:29:11 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:30:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:30:11 [Information] - User Repository: Getting all users
+2024-09-03 19:30:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:30:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:30:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:30:11 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:31:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:31:11 [Information] - User Repository: Getting all users
+2024-09-03 19:31:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:31:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:31:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:31:11 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:32:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:32:11 [Information] - User Repository: Getting all users
+2024-09-03 19:32:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:32:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:32:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:32:11 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:33:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:33:11 [Information] - User Repository: Getting all users
+2024-09-03 19:33:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:33:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:33:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:33:11 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:34:11 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:34:11 [Information] - User Repository: Getting all users
+2024-09-03 19:34:11 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:34:11 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:34:11 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:34:11 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:34:53 [Information] - User Balance Increment Service: Stopping user balance increment service
+2024-09-03 19:34:53 [Information] - User Balance Increment Service: Disposing user balance increment service
+2024-09-03 19:34:57 [Information] - User Balance Increment Service: Starting user balance increment service
+2024-09-03 19:34:57 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:34:57 [Information] - User Repository: Getting all users
+2024-09-03 19:34:57 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:34:57 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:34:57 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:35:57 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:35:57 [Information] - User Repository: Getting all users
+2024-09-03 19:35:57 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:35:57 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:35:57 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:36:57 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:36:57 [Information] - User Repository: Getting all users
+2024-09-03 19:36:57 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:36:57 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:36:57 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:37:57 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:37:57 [Information] - User Repository: Getting all users
+2024-09-03 19:37:57 [Information] - User Repository: Updating user with id 121331352808194049
+2024-09-03 19:37:57 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:37:57 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:38:57 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:38:57 [Information] - User Repository: Getting all users
+2024-09-03 19:38:57 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:38:57 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:39:35 [Information] - User Controller: Getting all users
+2024-09-03 19:39:35 [Information] - User Service: Getting all users
+2024-09-03 19:39:35 [Information] - User Repository: Getting all users
+2024-09-03 19:39:43 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:39:43 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:39:43 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:39:43 [Information] - CardPack Repository: Creating card pack
+2024-09-03 19:39:43 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:39:47 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 19:39:47 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 19:39:47 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:39:57 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:39:57 [Information] - User Repository: Getting all users
+2024-09-03 19:39:57 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:39:57 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:39:57 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:40:54 [Information] - User Balance Increment Service: Stopping user balance increment service
+2024-09-03 19:40:54 [Information] - User Balance Increment Service: Disposing user balance increment service
+2024-09-03 19:40:56 [Information] - User Balance Increment Service: Starting user balance increment service
+2024-09-03 19:40:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:40:56 [Information] - User Repository: Getting all users
+2024-09-03 19:40:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:40:56 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:40:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:41:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:41:56 [Information] - User Repository: Getting all users
+2024-09-03 19:41:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:41:56 [Information] - User Repository: Updating user with id 186197900894797829
+2024-09-03 19:41:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:42:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:42:56 [Information] - User Repository: Getting all users
+2024-09-03 19:42:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:42:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:43:05 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:43:05 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:43:05 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:43:05 [Information] - CardPack Repository: Creating card pack
+2024-09-03 19:43:05 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:43:08 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 19:43:08 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 19:43:08 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:43:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:43:56 [Information] - User Repository: Getting all users
+2024-09-03 19:43:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:43:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:44:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:44:56 [Information] - User Repository: Getting all users
+2024-09-03 19:44:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:44:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:45:18 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 19:45:18 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 19:45:18 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:29 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:29 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:29 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:29 [Information] - CardPack Repository: Creating card pack
+2024-09-03 19:45:29 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:45:29 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:29 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:29 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:29 [Information] - CardPack Repository: Creating card pack
+2024-09-03 19:45:29 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:45:29 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:29 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:29 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:29 [Information] - CardPack Repository: Creating card pack
+2024-09-03 19:45:29 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:45:29 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:29 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:29 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:29 [Information] - CardPack Repository: Creating card pack
+2024-09-03 19:45:29 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:45:30 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:30 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:30 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:30 [Information] - CardPack Repository: Creating card pack
+2024-09-03 19:45:30 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:45:30 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:30 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:30 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:30 [Information] - CardPack Repository: Creating card pack
+2024-09-03 19:45:30 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:45:30 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:30 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:30 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:30 [Information] - CardPack Repository: Creating card pack
+2024-09-03 19:45:30 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:45:31 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:31 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:31 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:31 [Information] - CardPack Repository: Creating card pack
+2024-09-03 19:45:31 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:45:31 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:31 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:31 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:31 [Information] - CardPack Repository: Creating card pack
+2024-09-03 19:45:31 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:45:31 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:31 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:31 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:31 [Information] - CardPack Repository: Creating card pack
+2024-09-03 19:45:31 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:45:31 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:31 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:31 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:31 [Information] - CardPack Repository: Creating card pack
+2024-09-03 19:45:31 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:45:31 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:31 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:31 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:31 [Information] - CardPack Repository: Creating card pack
+2024-09-03 19:45:31 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:45:31 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:31 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:31 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:31 [Information] - CardPack Repository: Creating card pack
+2024-09-03 19:45:31 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:45:31 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:31 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:31 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:31 [Information] - CardPack Repository: Creating card pack
+2024-09-03 19:45:31 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:45:31 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:31 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:31 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:31 [Information] - CardPack Repository: Creating card pack
+2024-09-03 19:45:31 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:45:32 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:32 [Information] - CardPack Repository: Creating card pack
+2024-09-03 19:45:32 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:45:32 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:32 [Information] - CardPack Repository: Creating card pack
+2024-09-03 19:45:32 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:45:32 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:32 [Information] - CardPack Repository: Creating card pack
+2024-09-03 19:45:32 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:45:32 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:32 [Information] - CardPack Repository: Creating card pack
+2024-09-03 19:45:32 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:45:32 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:32 [Error] - CardPack Service: User does not have enough balance to buy pack
+2024-09-03 19:45:32 [Error] - CardPack Controller: Error buying pack: User does not have enough balance to buy pack
+2024-09-03 19:45:32 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:32 [Error] - CardPack Service: User does not have enough balance to buy pack
+2024-09-03 19:45:32 [Error] - CardPack Controller: Error buying pack: User does not have enough balance to buy pack
+2024-09-03 19:45:32 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:32 [Error] - CardPack Service: User does not have enough balance to buy pack
+2024-09-03 19:45:32 [Error] - CardPack Controller: Error buying pack: User does not have enough balance to buy pack
+2024-09-03 19:45:32 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:32 [Error] - CardPack Service: User does not have enough balance to buy pack
+2024-09-03 19:45:32 [Error] - CardPack Controller: Error buying pack: User does not have enough balance to buy pack
+2024-09-03 19:45:32 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:32 [Error] - CardPack Service: User does not have enough balance to buy pack
+2024-09-03 19:45:32 [Error] - CardPack Controller: Error buying pack: User does not have enough balance to buy pack
+2024-09-03 19:45:32 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:32 [Error] - CardPack Service: User does not have enough balance to buy pack
+2024-09-03 19:45:32 [Error] - CardPack Controller: Error buying pack: User does not have enough balance to buy pack
+2024-09-03 19:45:32 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:32 [Error] - CardPack Service: User does not have enough balance to buy pack
+2024-09-03 19:45:32 [Error] - CardPack Controller: Error buying pack: User does not have enough balance to buy pack
+2024-09-03 19:45:32 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:32 [Error] - CardPack Service: User does not have enough balance to buy pack
+2024-09-03 19:45:32 [Error] - CardPack Controller: Error buying pack: User does not have enough balance to buy pack
+2024-09-03 19:45:32 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:32 [Error] - CardPack Service: User does not have enough balance to buy pack
+2024-09-03 19:45:32 [Error] - CardPack Controller: Error buying pack: User does not have enough balance to buy pack
+2024-09-03 19:45:32 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:32 [Error] - CardPack Service: User does not have enough balance to buy pack
+2024-09-03 19:45:32 [Error] - CardPack Controller: Error buying pack: User does not have enough balance to buy pack
+2024-09-03 19:45:32 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:32 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:32 [Error] - CardPack Service: User does not have enough balance to buy pack
+2024-09-03 19:45:32 [Error] - CardPack Controller: Error buying pack: User does not have enough balance to buy pack
+2024-09-03 19:45:32 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:33 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:33 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:33 [Error] - CardPack Service: User does not have enough balance to buy pack
+2024-09-03 19:45:33 [Error] - CardPack Controller: Error buying pack: User does not have enough balance to buy pack
+2024-09-03 19:45:33 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:33 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:33 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:33 [Error] - CardPack Service: User does not have enough balance to buy pack
+2024-09-03 19:45:33 [Error] - CardPack Controller: Error buying pack: User does not have enough balance to buy pack
+2024-09-03 19:45:33 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:33 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:33 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:33 [Error] - CardPack Service: User does not have enough balance to buy pack
+2024-09-03 19:45:33 [Error] - CardPack Controller: Error buying pack: User does not have enough balance to buy pack
+2024-09-03 19:45:33 [Information] - CardPack Controller: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:33 [Information] - CardPack Service: Buying pack for user with Discord id 282890968359763980
+2024-09-03 19:45:33 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:33 [Error] - CardPack Service: User does not have enough balance to buy pack
+2024-09-03 19:45:33 [Error] - CardPack Controller: Error buying pack: User does not have enough balance to buy pack
+2024-09-03 19:45:35 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 19:45:35 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 19:45:35 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:38 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 19:45:38 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 19:45:38 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:45:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:45:56 [Information] - User Repository: Getting all users
+2024-09-03 19:45:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:45:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:46:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:46:56 [Information] - User Repository: Getting all users
+2024-09-03 19:46:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:46:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:47:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:47:56 [Information] - User Repository: Getting all users
+2024-09-03 19:47:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:47:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:48:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:48:56 [Information] - User Repository: Getting all users
+2024-09-03 19:48:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:48:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:49:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:49:56 [Information] - User Repository: Getting all users
+2024-09-03 19:49:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:49:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:50:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:50:56 [Information] - User Repository: Getting all users
+2024-09-03 19:50:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:50:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:51:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:51:56 [Information] - User Repository: Getting all users
+2024-09-03 19:51:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:51:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:52:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:52:56 [Information] - User Repository: Getting all users
+2024-09-03 19:52:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:52:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:53:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:53:56 [Information] - User Repository: Getting all users
+2024-09-03 19:53:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:53:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:54:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:54:56 [Information] - User Repository: Getting all users
+2024-09-03 19:54:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:54:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:55:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:55:56 [Information] - User Repository: Getting all users
+2024-09-03 19:55:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:55:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:56:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:56:56 [Information] - User Repository: Getting all users
+2024-09-03 19:56:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:56:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:57:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:57:56 [Information] - User Repository: Getting all users
+2024-09-03 19:57:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:57:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:58:01 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 19:58:01 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 19:58:01 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 19:58:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:58:56 [Information] - User Repository: Getting all users
+2024-09-03 19:58:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:58:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 19:59:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 19:59:56 [Information] - User Repository: Getting all users
+2024-09-03 19:59:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 19:59:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:00:10 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:00:10 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:00:10 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 20:00:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:00:56 [Information] - User Repository: Getting all users
+2024-09-03 20:00:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:00:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:01:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:01:56 [Information] - User Repository: Getting all users
+2024-09-03 20:01:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:01:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:02:32 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:02:32 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:02:32 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 20:02:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:02:56 [Information] - User Repository: Getting all users
+2024-09-03 20:02:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:02:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:03:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:03:56 [Information] - User Repository: Getting all users
+2024-09-03 20:03:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:03:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:04:05 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:04:05 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:04:05 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 20:04:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:04:56 [Information] - User Repository: Getting all users
+2024-09-03 20:04:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:04:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:05:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:05:56 [Information] - User Repository: Getting all users
+2024-09-03 20:05:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:05:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:06:56 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:06:56 [Information] - User Repository: Getting all users
+2024-09-03 20:06:56 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:06:56 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:08:59 [Information] - User Balance Increment Service: Starting user balance increment service
+2024-09-03 20:08:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:08:59 [Information] - User Repository: Getting all users
+2024-09-03 20:08:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:08:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:09:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:09:59 [Information] - User Repository: Getting all users
+2024-09-03 20:09:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:09:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:10:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:10:59 [Information] - User Repository: Getting all users
+2024-09-03 20:10:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:10:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:11:16 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:11:16 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:11:16 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 20:11:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:11:59 [Information] - User Repository: Getting all users
+2024-09-03 20:11:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:11:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:12:37 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:12:37 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:12:37 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 20:12:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:12:59 [Information] - User Repository: Getting all users
+2024-09-03 20:12:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:12:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:13:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:13:59 [Information] - User Repository: Getting all users
+2024-09-03 20:13:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:13:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:14:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:14:59 [Information] - User Repository: Getting all users
+2024-09-03 20:14:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:14:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:15:17 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:15:17 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:15:17 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 20:15:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:15:59 [Information] - User Repository: Getting all users
+2024-09-03 20:15:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:15:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:16:45 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:16:45 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:16:45 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 20:16:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:16:59 [Information] - User Repository: Getting all users
+2024-09-03 20:16:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:16:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:17:26 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:17:26 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:17:26 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 20:17:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:17:59 [Information] - User Repository: Getting all users
+2024-09-03 20:17:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:17:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:18:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:18:59 [Information] - User Repository: Getting all users
+2024-09-03 20:18:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:18:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:19:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:19:59 [Information] - User Repository: Getting all users
+2024-09-03 20:19:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:19:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:20:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:20:59 [Information] - User Repository: Getting all users
+2024-09-03 20:20:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:20:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:21:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:21:59 [Information] - User Repository: Getting all users
+2024-09-03 20:21:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:21:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:22:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:22:59 [Information] - User Repository: Getting all users
+2024-09-03 20:22:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:22:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:23:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:23:59 [Information] - User Repository: Getting all users
+2024-09-03 20:23:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:23:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:24:36 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:24:36 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:24:36 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 20:24:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:24:59 [Information] - User Repository: Getting all users
+2024-09-03 20:24:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:24:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:25:01 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:25:01 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:25:01 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 20:25:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:25:59 [Information] - User Repository: Getting all users
+2024-09-03 20:25:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:25:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:26:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:26:59 [Information] - User Repository: Getting all users
+2024-09-03 20:26:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:26:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:27:37 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:27:37 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:27:37 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 20:27:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:27:59 [Information] - User Repository: Getting all users
+2024-09-03 20:27:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:27:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:28:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:28:59 [Information] - User Repository: Getting all users
+2024-09-03 20:28:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:28:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:29:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:29:59 [Information] - User Repository: Getting all users
+2024-09-03 20:29:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:29:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:30:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:30:59 [Information] - User Repository: Getting all users
+2024-09-03 20:30:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:30:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:31:41 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:31:41 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:31:41 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 20:31:56 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:31:56 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:31:56 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 20:31:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:31:59 [Information] - User Repository: Getting all users
+2024-09-03 20:31:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:31:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:32:20 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:32:20 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:32:20 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 20:32:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:32:59 [Information] - User Repository: Getting all users
+2024-09-03 20:32:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:32:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:33:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:33:59 [Information] - User Repository: Getting all users
+2024-09-03 20:33:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:33:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:34:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:34:59 [Information] - User Repository: Getting all users
+2024-09-03 20:34:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:34:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:35:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:35:59 [Information] - User Repository: Getting all users
+2024-09-03 20:35:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:35:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:36:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:36:59 [Information] - User Repository: Getting all users
+2024-09-03 20:36:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:36:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:37:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:37:59 [Information] - User Repository: Getting all users
+2024-09-03 20:37:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:37:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:38:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:38:59 [Information] - User Repository: Getting all users
+2024-09-03 20:38:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:38:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:39:56 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:39:56 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:39:56 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 20:39:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:39:59 [Information] - User Repository: Getting all users
+2024-09-03 20:39:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:39:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:40:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:40:59 [Information] - User Repository: Getting all users
+2024-09-03 20:40:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:40:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:41:01 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:41:01 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:41:01 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 20:41:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:41:59 [Information] - User Repository: Getting all users
+2024-09-03 20:41:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:41:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:42:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:42:59 [Information] - User Repository: Getting all users
+2024-09-03 20:42:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:42:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:43:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:43:59 [Information] - User Repository: Getting all users
+2024-09-03 20:43:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:43:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:44:29 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:44:29 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:44:29 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 20:44:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:44:59 [Information] - User Repository: Getting all users
+2024-09-03 20:44:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:44:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:45:35 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:45:35 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:45:35 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 20:45:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:45:59 [Information] - User Repository: Getting all users
+2024-09-03 20:45:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:45:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:46:08 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:46:08 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:46:08 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 20:46:55 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:46:55 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:46:55 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 20:46:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:46:59 [Information] - User Repository: Getting all users
+2024-09-03 20:46:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:46:59 [Information] - User Repository: Updating user with id 218984408823234562
+2024-09-03 20:47:17 [Information] - CardPack Controller: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:47:17 [Information] - CardPack Service: Getting card packs for user with Discord id 282890968359763980
+2024-09-03 20:47:17 [Information] - User Repository: Getting user with id 282890968359763980
+2024-09-03 20:47:59 [Information] - User Balance Increment Service: Incrementing user balances
+2024-09-03 20:47:59 [Information] - User Repository: Getting all users
+2024-09-03 20:47:59 [Information] - User Repository: Updating user with id 282890968359763980
+2024-09-03 20:47:59 [Information] - User Repository: Updating user with id 218984408823234562

@@ -130,3 +130,383 @@ Command name: kys
 2024-09-03 18:47:28 [Information] - ROLLBOT COMMAND: Deferring response
 2024-09-03 18:47:29 [Information] - ROLLBOT COMMAND: Processing balance command for user 282890968359763980
 2024-09-03 18:47:29 [Information] - ROLLBOT COMMAND: GET /api/users/282890968359763980 responded with OK
+2024-09-03 19:16:51 [Information] - ROLLBOT COMMAND: Join alias command received
+2024-09-03 19:16:51 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 19:16:52 [Information] - ROLLBOT COMMAND: Processing join command for user 218984408823234562
+2024-09-03 19:16:52 [Information] - ROLLBOT COMMAND: GET /api/users/218984408823234562 responded with NotFound
+2024-09-03 19:16:52 [Information] - ROLLBOT COMMAND: Sending POST request to create user
+2024-09-03 19:16:52 [Information] - ROLLBOT COMMAND: POST /api/users responded with Created
+2024-09-03 19:17:02 [Information] - ROLLBOT COMMAND: Balance alias command received
+2024-09-03 19:17:02 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 19:17:02 [Information] - ROLLBOT COMMAND: Processing balance command for user 218984408823234562
+2024-09-03 19:17:02 [Information] - ROLLBOT COMMAND: GET /api/users/218984408823234562 responded with OK
+2024-09-03 19:24:58 [Information] - ROLLBOT COMMAND: Balance alias command received
+2024-09-03 19:24:58 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 19:24:58 [Information] - ROLLBOT COMMAND: Processing balance command for user 282890968359763980
+2024-09-03 19:24:58 [Information] - ROLLBOT COMMAND: GET /api/users/282890968359763980 responded with OK
+2024-09-03 19:28:36 [Information] - PROGRAM: Starting bot...
+2024-09-03 19:28:36 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 19:28:36 [Information] - PROGRAM: Registering commands...
+2024-09-03 19:28:36 [Information] - PROGRAM: Commands registered.
+2024-09-03 19:28:38 [Information] - PROGRAM: Bot connected.
+2024-09-03 19:28:38 [Information] - PROGRAM: Bot is ready.
+2024-09-03 19:44:37 [Information] - PROGRAM: Starting bot...
+2024-09-03 19:44:37 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 19:44:37 [Information] - PROGRAM: Registering commands...
+2024-09-03 19:44:37 [Information] - PROGRAM: Commands registered.
+2024-09-03 19:44:38 [Information] - PROGRAM: Bot connected.
+2024-09-03 19:44:38 [Information] - PROGRAM: Bot is ready.
+2024-09-03 19:45:03 [Information] - PROGRAM: Starting bot...
+2024-09-03 19:45:03 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 19:45:03 [Information] - PROGRAM: Registering commands...
+2024-09-03 19:45:03 [Information] - PROGRAM: Commands registered.
+2024-09-03 19:45:04 [Information] - PROGRAM: Bot connected.
+2024-09-03 19:45:04 [Information] - PROGRAM: Bot is ready.
+2024-09-03 19:45:18 [Information] - ROLLBOT COMMAND: Packs command received
+2024-09-03 19:45:18 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 19:45:18 [Information] - ROLLBOT COMMAND: Processing packs command for user 282890968359763980
+2024-09-03 19:45:18 [Information] - ROLLBOT COMMAND: GET /api/CardPack/282890968359763980 responded with OK
+2024-09-03 19:45:38 [Information] - ROLLBOT COMMAND: Packs command received
+2024-09-03 19:45:38 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 19:45:38 [Information] - ROLLBOT COMMAND: Processing packs command for user 282890968359763980
+2024-09-03 19:45:38 [Information] - ROLLBOT COMMAND: GET /api/CardPack/282890968359763980 responded with OK
+2024-09-03 19:57:55 [Information] - PROGRAM: Starting bot...
+2024-09-03 19:57:55 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 19:57:55 [Information] - PROGRAM: Registering commands...
+2024-09-03 19:57:55 [Information] - PROGRAM: Commands registered.
+2024-09-03 19:57:56 [Information] - PROGRAM: Bot connected.
+2024-09-03 19:57:56 [Information] - PROGRAM: Bot is ready.
+2024-09-03 19:58:00 [Information] - ROLLBOT COMMAND: Packs command received
+2024-09-03 19:58:00 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 19:58:01 [Information] - ROLLBOT COMMAND: Processing packs command for user 282890968359763980
+2024-09-03 19:58:01 [Information] - ROLLBOT COMMAND: GET /api/CardPack/282890968359763980 responded with OK
+2024-09-03 19:59:59 [Information] - PROGRAM: Starting bot...
+2024-09-03 19:59:59 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 19:59:59 [Information] - PROGRAM: Registering commands...
+2024-09-03 19:59:59 [Information] - PROGRAM: Commands registered.
+2024-09-03 20:00:00 [Information] - PROGRAM: Bot connected.
+2024-09-03 20:00:00 [Information] - PROGRAM: Bot is ready.
+2024-09-03 20:00:10 [Information] - ROLLBOT COMMAND: Packs command received
+2024-09-03 20:00:10 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 20:00:10 [Information] - ROLLBOT COMMAND: Processing packs command for user 282890968359763980
+2024-09-03 20:00:10 [Information] - ROLLBOT COMMAND: GET /api/CardPack/282890968359763980 responded with OK
+2024-09-03 20:00:10 [Information] - ROLLBOT COMMAND: Parsed card packs for user 282890968359763980
+2024-09-03 20:00:10 [Information] - ROLLBOT COMMAND: Stored card packs for user 282890968359763980
+2024-09-03 20:00:10 [Information] - ROLLBOT COMMAND: Showing card packs page 0 for user 282890968359763980
+2024-09-03 20:00:11 [Information] - ROLLBOT COMMAND: Waiting for button interaction on page 0 for user 282890968359763980
+2024-09-03 20:00:14 [Information] - ROLLBOT COMMAND: Next page button clicked, navigating to page 1 for user 282890968359763980
+2024-09-03 20:00:14 [Information] - ROLLBOT COMMAND: Showing card packs page 1 for user 282890968359763980
+2024-09-03 20:00:15 [Information] - ROLLBOT COMMAND: Waiting for button interaction on page 1 for user 282890968359763980
+2024-09-03 20:00:22 [Information] - ROLLBOT COMMAND: Next page button clicked, navigating to page 2 for user 282890968359763980
+2024-09-03 20:00:22 [Information] - ROLLBOT COMMAND: Showing card packs page 2 for user 282890968359763980
+2024-09-03 20:00:23 [Information] - ROLLBOT COMMAND: Waiting for button interaction on page 2 for user 282890968359763980
+2024-09-03 20:00:29 [Information] - ROLLBOT COMMAND: Previous page button clicked, navigating to page 1 for user 282890968359763980
+2024-09-03 20:00:29 [Information] - ROLLBOT COMMAND: Showing card packs page 1 for user 282890968359763980
+2024-09-03 20:00:29 [Information] - ROLLBOT COMMAND: Waiting for button interaction on page 1 for user 282890968359763980
+2024-09-03 20:00:32 [Information] - ROLLBOT COMMAND: Next page button clicked, navigating to page 2 for user 282890968359763980
+2024-09-03 20:00:32 [Information] - ROLLBOT COMMAND: Showing card packs page 2 for user 282890968359763980
+2024-09-03 20:00:33 [Information] - ROLLBOT COMMAND: Waiting for button interaction on page 2 for user 282890968359763980
+2024-09-03 20:00:37 [Information] - ROLLBOT COMMAND: Previous page button clicked, navigating to page 1 for user 282890968359763980
+2024-09-03 20:00:37 [Information] - ROLLBOT COMMAND: Showing card packs page 1 for user 282890968359763980
+2024-09-03 20:00:37 [Information] - ROLLBOT COMMAND: Waiting for button interaction on page 1 for user 282890968359763980
+2024-09-03 20:00:41 [Information] - ROLLBOT COMMAND: Previous page button clicked, navigating to page 0 for user 282890968359763980
+2024-09-03 20:00:41 [Information] - ROLLBOT COMMAND: Showing card packs page 0 for user 282890968359763980
+2024-09-03 20:00:42 [Information] - ROLLBOT COMMAND: Waiting for button interaction on page 0 for user 282890968359763980
+2024-09-03 20:02:25 [Information] - PROGRAM: Starting bot...
+2024-09-03 20:02:25 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 20:02:25 [Information] - PROGRAM: Registering commands...
+2024-09-03 20:02:25 [Information] - PROGRAM: Commands registered.
+2024-09-03 20:02:26 [Information] - PROGRAM: Bot connected.
+2024-09-03 20:02:26 [Information] - PROGRAM: Bot is ready.
+2024-09-03 20:02:31 [Information] - ROLLBOT COMMAND: Packs command received
+2024-09-03 20:02:31 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 20:02:32 [Information] - ROLLBOT COMMAND: Processing packs command for user 282890968359763980
+2024-09-03 20:02:32 [Information] - ROLLBOT COMMAND: GET /api/CardPack/282890968359763980 responded with OK
+2024-09-03 20:02:32 [Information] - ROLLBOT COMMAND: Parsed card packs for user 282890968359763980
+2024-09-03 20:02:32 [Information] - ROLLBOT COMMAND: Stored card packs for user 282890968359763980
+2024-09-03 20:02:32 [Information] - ROLLBOT COMMAND: Showing card packs page 0 for user 282890968359763980
+2024-09-03 20:02:32 [Information] - ROLLBOT COMMAND: Waiting for button interaction on page 0 for user 282890968359763980
+2024-09-03 20:02:34 [Information] - ROLLBOT COMMAND: Next page button clicked, navigating to page 1 for user 282890968359763980
+2024-09-03 20:02:34 [Information] - ROLLBOT COMMAND: Showing card packs page 1 for user 282890968359763980
+2024-09-03 20:02:35 [Information] - ROLLBOT COMMAND: Waiting for button interaction on page 1 for user 282890968359763980
+2024-09-03 20:02:59 [Information] - ROLLBOT COMMAND: Next page button clicked, navigating to page 2 for user 282890968359763980
+2024-09-03 20:02:59 [Information] - ROLLBOT COMMAND: Showing card packs page 2 for user 282890968359763980
+2024-09-03 20:02:59 [Information] - ROLLBOT COMMAND: Waiting for button interaction on page 2 for user 282890968359763980
+2024-09-03 20:03:03 [Information] - ROLLBOT COMMAND: Previous page button clicked, navigating to page 1 for user 282890968359763980
+2024-09-03 20:03:03 [Information] - ROLLBOT COMMAND: Showing card packs page 1 for user 282890968359763980
+2024-09-03 20:03:04 [Information] - ROLLBOT COMMAND: Waiting for button interaction on page 1 for user 282890968359763980
+2024-09-03 20:03:12 [Information] - ROLLBOT COMMAND: Previous page button clicked, navigating to page 0 for user 282890968359763980
+2024-09-03 20:03:12 [Information] - ROLLBOT COMMAND: Showing card packs page 0 for user 282890968359763980
+2024-09-03 20:03:13 [Information] - ROLLBOT COMMAND: Waiting for button interaction on page 0 for user 282890968359763980
+2024-09-03 20:03:57 [Information] - PROGRAM: Starting bot...
+2024-09-03 20:03:57 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 20:03:57 [Information] - PROGRAM: Registering commands...
+2024-09-03 20:03:57 [Information] - PROGRAM: Commands registered.
+2024-09-03 20:03:58 [Information] - PROGRAM: Bot connected.
+2024-09-03 20:03:58 [Information] - PROGRAM: Bot is ready.
+2024-09-03 20:04:04 [Information] - ROLLBOT COMMAND: Packs command received
+2024-09-03 20:04:04 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 20:04:05 [Information] - ROLLBOT COMMAND: Processing packs command for user 282890968359763980
+2024-09-03 20:04:05 [Information] - ROLLBOT COMMAND: GET /api/CardPack/282890968359763980 responded with OK
+2024-09-03 20:04:05 [Information] - ROLLBOT COMMAND: Parsed card packs for user 282890968359763980
+2024-09-03 20:04:05 [Information] - ROLLBOT COMMAND: Stored card packs for user 282890968359763980
+2024-09-03 20:04:05 [Information] - ROLLBOT COMMAND: Showing card packs page 0 for user 282890968359763980
+2024-09-03 20:04:05 [Information] - ROLLBOT COMMAND: Waiting for button interaction on page 0 for user 282890968359763980
+2024-09-03 20:04:08 [Information] - ROLLBOT COMMAND: Next page button clicked, navigating to page 1 for user 282890968359763980
+2024-09-03 20:04:08 [Information] - ROLLBOT COMMAND: Showing card packs page 1 for user 282890968359763980
+2024-09-03 20:04:08 [Information] - ROLLBOT COMMAND: Waiting for button interaction on page 1 for user 282890968359763980
+2024-09-03 20:04:13 [Information] - ROLLBOT COMMAND: Next page button clicked, navigating to page 2 for user 282890968359763980
+2024-09-03 20:04:13 [Information] - ROLLBOT COMMAND: Showing card packs page 2 for user 282890968359763980
+2024-09-03 20:04:14 [Information] - ROLLBOT COMMAND: Waiting for button interaction on page 2 for user 282890968359763980
+2024-09-03 20:06:14 [Information] - ROLLBOT COMMAND: Button interaction timed out on page 2 for user 282890968359763980
+2024-09-03 20:06:14 [Error] - ROLLBOT COMMAND: An error occurred while handling the button interaction: DSharpPlus.Exceptions.NotFoundException: Not found: 404
+   at DSharpPlus.Net.DiscordApiClient.CreateInteractionResponseAsync(UInt64 interaction_id, String interaction_token, InteractionResponseType type, DiscordInteractionResponseBuilder builder)
+   at RollBot.Commands.RollBotCommands.ShowCardPacksPage(InteractionContext ctx, JArray cardPacks, Int32 page) in C:\Users\gigi\Desktop\RollBot\DiscordRollBot\Commands\RollBot.cs:line 321
+2024-09-03 20:06:15 [Error] - ROLLBOT COMMAND: An error occurred while handling the button interaction: DSharpPlus.Exceptions.NotFoundException: Not found: 404
+   at DSharpPlus.Net.DiscordApiClient.CreateInteractionResponseAsync(UInt64 interaction_id, String interaction_token, InteractionResponseType type, DiscordInteractionResponseBuilder builder)
+   at RollBot.Commands.RollBotCommands.ShowCardPacksPage(InteractionContext ctx, JArray cardPacks, Int32 page) in C:\Users\gigi\Desktop\RollBot\DiscordRollBot\Commands\RollBot.cs:line 326
+   at RollBot.Commands.RollBotCommands.ShowCardPacksPage(InteractionContext ctx, JArray cardPacks, Int32 page) in C:\Users\gigi\Desktop\RollBot\DiscordRollBot\Commands\RollBot.cs:line 317
+2024-09-03 20:06:15 [Error] - ROLLBOT COMMAND: An error occurred while processing the packs command: DSharpPlus.Exceptions.NotFoundException: Not found: 404
+   at DSharpPlus.Net.DiscordApiClient.CreateInteractionResponseAsync(UInt64 interaction_id, String interaction_token, InteractionResponseType type, DiscordInteractionResponseBuilder builder)
+   at RollBot.Commands.RollBotCommands.ShowCardPacksPage(InteractionContext ctx, JArray cardPacks, Int32 page) in C:\Users\gigi\Desktop\RollBot\DiscordRollBot\Commands\RollBot.cs:line 326
+   at RollBot.Commands.RollBotCommands.ExecutePacksCommand(InteractionContext ctx) in C:\Users\gigi\Desktop\RollBot\DiscordRollBot\Commands\RollBot.cs:line 223
+2024-09-03 20:10:54 [Information] - PROGRAM: Starting bot...
+2024-09-03 20:10:54 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 20:10:54 [Information] - PROGRAM: Registering commands...
+2024-09-03 20:10:54 [Information] - PROGRAM: Commands registered.
+2024-09-03 20:10:55 [Information] - PROGRAM: Bot connected.
+2024-09-03 20:10:55 [Information] - PROGRAM: Bot is ready.
+2024-09-03 20:11:15 [Information] - ROLLBOT COMMAND: Packs command received
+2024-09-03 20:11:15 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 20:11:15 [Information] - ROLLBOT COMMAND: Processing packs command for user 282890968359763980
+2024-09-03 20:11:16 [Information] - ROLLBOT COMMAND: GET /api/CardPack/282890968359763980 responded with OK
+2024-09-03 20:11:16 [Information] - ROLLBOT COMMAND: Parsed card packs for user 282890968359763980
+2024-09-03 20:11:16 [Information] - ROLLBOT COMMAND: Stored card packs for user 282890968359763980
+2024-09-03 20:11:16 [Information] - ROLLBOT COMMAND: Showing card packs page 0 for user 282890968359763980
+2024-09-03 20:11:16 [Information] - ROLLBOT COMMAND: Waiting for button interaction on page 0 for user 282890968359763980
+2024-09-03 20:11:17 [Information] - ROLLBOT COMMAND: Next page button clicked, navigating to page 1 for user 282890968359763980
+2024-09-03 20:11:17 [Information] - ROLLBOT COMMAND: Showing card packs page 1 for user 282890968359763980
+2024-09-03 20:11:18 [Information] - ROLLBOT COMMAND: Waiting for button interaction on page 1 for user 282890968359763980
+2024-09-03 20:11:22 [Information] - ROLLBOT COMMAND: Next page button clicked, navigating to page 2 for user 282890968359763980
+2024-09-03 20:11:22 [Information] - ROLLBOT COMMAND: Showing card packs page 2 for user 282890968359763980
+2024-09-03 20:11:23 [Information] - ROLLBOT COMMAND: Waiting for button interaction on page 2 for user 282890968359763980
+2024-09-03 20:12:28 [Information] - PROGRAM: Starting bot...
+2024-09-03 20:12:28 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 20:12:29 [Information] - PROGRAM: Registering commands...
+2024-09-03 20:12:29 [Information] - PROGRAM: Commands registered.
+2024-09-03 20:12:30 [Information] - PROGRAM: Bot connected.
+2024-09-03 20:12:30 [Information] - PROGRAM: Bot is ready.
+2024-09-03 20:12:36 [Information] - ROLLBOT COMMAND: Packs command received
+2024-09-03 20:12:36 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 20:12:36 [Information] - ROLLBOT COMMAND: Processing packs command for user 282890968359763980
+2024-09-03 20:12:37 [Information] - ROLLBOT COMMAND: GET /api/CardPack/282890968359763980 responded with OK
+2024-09-03 20:12:37 [Information] - ROLLBOT COMMAND: Parsed card packs for user 282890968359763980
+2024-09-03 20:12:37 [Information] - ROLLBOT COMMAND: Stored card packs for user 282890968359763980
+2024-09-03 20:12:37 [Information] - ROLLBOT COMMAND: Showing card packs page 0 for user 282890968359763980
+2024-09-03 20:12:37 [Information] - ROLLBOT COMMAND: Waiting for button interaction on page 0 for user 282890968359763980
+2024-09-03 20:12:41 [Information] - ROLLBOT COMMAND: Next page button clicked, navigating to page 1 for user 282890968359763980
+2024-09-03 20:12:41 [Information] - ROLLBOT COMMAND: Showing card packs page 1 for user 282890968359763980
+2024-09-03 20:12:41 [Information] - ROLLBOT COMMAND: Waiting for button interaction on page 1 for user 282890968359763980
+2024-09-03 20:14:41 [Information] - ROLLBOT COMMAND: Button interaction timed out on page 1 for user 282890968359763980
+2024-09-03 20:14:42 [Error] - ROLLBOT COMMAND: An error occurred while handling the button interaction: DSharpPlus.Exceptions.NotFoundException: Not found: 404
+   at DSharpPlus.Net.DiscordApiClient.CreateInteractionResponseAsync(UInt64 interaction_id, String interaction_token, InteractionResponseType type, DiscordInteractionResponseBuilder builder)
+   at RollBot.Commands.RollBotCommands.ShowCardPacksPage(InteractionContext ctx, JArray cardPacks, Int32 page) in C:\Users\gigi\Desktop\RollBot\DiscordRollBot\Commands\RollBot.cs:line 321
+2024-09-03 20:14:42 [Error] - ROLLBOT COMMAND: An error occurred while processing the packs command: DSharpPlus.Exceptions.NotFoundException: Not found: 404
+   at DSharpPlus.Net.DiscordApiClient.CreateInteractionResponseAsync(UInt64 interaction_id, String interaction_token, InteractionResponseType type, DiscordInteractionResponseBuilder builder)
+   at RollBot.Commands.RollBotCommands.ShowCardPacksPage(InteractionContext ctx, JArray cardPacks, Int32 page) in C:\Users\gigi\Desktop\RollBot\DiscordRollBot\Commands\RollBot.cs:line 326
+   at RollBot.Commands.RollBotCommands.ExecutePacksCommand(InteractionContext ctx) in C:\Users\gigi\Desktop\RollBot\DiscordRollBot\Commands\RollBot.cs:line 223
+2024-09-03 20:15:12 [Information] - PROGRAM: Starting bot...
+2024-09-03 20:15:12 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 20:15:12 [Information] - PROGRAM: Registering commands...
+2024-09-03 20:15:12 [Information] - PROGRAM: Commands registered.
+2024-09-03 20:15:13 [Information] - PROGRAM: Bot connected.
+2024-09-03 20:15:13 [Information] - PROGRAM: Bot is ready.
+2024-09-03 20:15:17 [Information] - ROLLBOT COMMAND: Packs command received
+2024-09-03 20:15:17 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 20:15:17 [Information] - ROLLBOT COMMAND: Processing packs command for user 282890968359763980
+2024-09-03 20:15:17 [Information] - ROLLBOT COMMAND: GET /api/CardPack/282890968359763980 responded with OK
+2024-09-03 20:15:17 [Information] - ROLLBOT COMMAND: Parsed card packs for user 282890968359763980
+2024-09-03 20:15:17 [Information] - ROLLBOT COMMAND: Stored card packs for user 282890968359763980
+2024-09-03 20:15:17 [Information] - ROLLBOT COMMAND: Showing card packs page 0 for user 282890968359763980
+2024-09-03 20:16:41 [Information] - PROGRAM: Starting bot...
+2024-09-03 20:16:42 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 20:16:42 [Information] - PROGRAM: Registering commands...
+2024-09-03 20:16:42 [Information] - PROGRAM: Commands registered.
+2024-09-03 20:16:43 [Information] - PROGRAM: Bot connected.
+2024-09-03 20:16:43 [Information] - PROGRAM: Bot is ready.
+2024-09-03 20:16:44 [Information] - ROLLBOT COMMAND: Packs command received
+2024-09-03 20:16:44 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 20:16:45 [Information] - ROLLBOT COMMAND: Processing packs command for user 282890968359763980
+2024-09-03 20:16:45 [Information] - ROLLBOT COMMAND: GET /api/CardPack/282890968359763980 responded with OK
+2024-09-03 20:16:45 [Information] - ROLLBOT COMMAND: Parsed card packs for user 282890968359763980
+2024-09-03 20:16:45 [Information] - ROLLBOT COMMAND: Stored card packs for user 282890968359763980
+2024-09-03 20:16:45 [Information] - ROLLBOT COMMAND: Showing card packs page 0 for user 282890968359763980
+2024-09-03 20:17:22 [Information] - PROGRAM: Starting bot...
+2024-09-03 20:17:22 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 20:17:22 [Information] - PROGRAM: Registering commands...
+2024-09-03 20:17:22 [Information] - PROGRAM: Commands registered.
+2024-09-03 20:17:23 [Information] - PROGRAM: Bot connected.
+2024-09-03 20:17:23 [Information] - PROGRAM: Bot is ready.
+2024-09-03 20:17:26 [Information] - ROLLBOT COMMAND: Packs command received
+2024-09-03 20:17:26 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 20:17:26 [Information] - ROLLBOT COMMAND: Processing packs command for user 282890968359763980
+2024-09-03 20:17:26 [Information] - ROLLBOT COMMAND: GET /api/CardPack/282890968359763980 responded with OK
+2024-09-03 20:17:26 [Information] - ROLLBOT COMMAND: Parsed card packs for user 282890968359763980
+2024-09-03 20:17:26 [Information] - ROLLBOT COMMAND: Stored card packs for user 282890968359763980
+2024-09-03 20:17:26 [Information] - ROLLBOT COMMAND: Showing card packs page 0 for user 282890968359763980
+2024-09-03 20:24:34 [Information] - PROGRAM: Starting bot...
+2024-09-03 20:24:34 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 20:24:34 [Information] - PROGRAM: Registering commands...
+2024-09-03 20:24:34 [Information] - PROGRAM: Commands registered.
+2024-09-03 20:24:35 [Information] - PROGRAM: Bot connected.
+2024-09-03 20:24:35 [Information] - PROGRAM: Bot is ready.
+2024-09-03 20:24:35 [Information] - ROLLBOT COMMAND: Packs command received
+2024-09-03 20:24:35 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 20:24:36 [Information] - ROLLBOT COMMAND: Processing packs command for user 282890968359763980
+2024-09-03 20:24:36 [Information] - ROLLBOT COMMAND: GET /api/CardPack/282890968359763980 responded with OK
+2024-09-03 20:24:36 [Information] - ROLLBOT COMMAND: Parsed card packs for user 282890968359763980
+2024-09-03 20:24:36 [Information] - ROLLBOT COMMAND: Displaying all card packs for user 282890968359763980
+2024-09-03 20:24:55 [Information] - PROGRAM: Starting bot...
+2024-09-03 20:24:55 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 20:24:55 [Information] - PROGRAM: Registering commands...
+2024-09-03 20:24:55 [Information] - PROGRAM: Commands registered.
+2024-09-03 20:24:56 [Information] - PROGRAM: Bot connected.
+2024-09-03 20:24:57 [Information] - PROGRAM: Bot is ready.
+2024-09-03 20:25:01 [Information] - ROLLBOT COMMAND: Packs command received
+2024-09-03 20:25:01 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 20:25:01 [Information] - ROLLBOT COMMAND: Processing packs command for user 282890968359763980
+2024-09-03 20:25:01 [Information] - ROLLBOT COMMAND: GET /api/CardPack/282890968359763980 responded with OK
+2024-09-03 20:25:01 [Information] - ROLLBOT COMMAND: Parsed card packs for user 282890968359763980
+2024-09-03 20:25:01 [Information] - ROLLBOT COMMAND: Displaying all card packs for user 282890968359763980
+2024-09-03 20:27:34 [Information] - PROGRAM: Starting bot...
+2024-09-03 20:27:34 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 20:27:34 [Information] - PROGRAM: Registering commands...
+2024-09-03 20:27:34 [Information] - PROGRAM: Commands registered.
+2024-09-03 20:27:35 [Information] - PROGRAM: Bot connected.
+2024-09-03 20:27:35 [Information] - PROGRAM: Bot is ready.
+2024-09-03 20:27:37 [Information] - ROLLBOT COMMAND: Packs command received
+2024-09-03 20:27:37 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 20:27:37 [Information] - ROLLBOT COMMAND: Processing packs command for user 282890968359763980
+2024-09-03 20:27:37 [Information] - ROLLBOT COMMAND: GET /api/CardPack/282890968359763980 responded with OK
+2024-09-03 20:27:37 [Information] - ROLLBOT COMMAND: Parsed card packs for user 282890968359763980
+2024-09-03 20:27:37 [Information] - ROLLBOT COMMAND: Displaying all card packs for user 282890968359763980
+2024-09-03 20:31:33 [Information] - PROGRAM: Starting bot...
+2024-09-03 20:31:33 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 20:31:33 [Information] - PROGRAM: Registering commands...
+2024-09-03 20:31:33 [Information] - PROGRAM: Commands registered.
+2024-09-03 20:31:35 [Information] - PROGRAM: Bot connected.
+2024-09-03 20:31:35 [Information] - PROGRAM: Bot is ready.
+2024-09-03 20:31:41 [Information] - ROLLBOT COMMAND: Packs command received
+2024-09-03 20:31:41 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 20:31:41 [Information] - ROLLBOT COMMAND: Processing packs command for user 282890968359763980
+2024-09-03 20:31:41 [Information] - ROLLBOT COMMAND: GET /api/CardPack/282890968359763980 responded with OK
+2024-09-03 20:31:41 [Information] - ROLLBOT COMMAND: Parsed card packs for user 282890968359763980
+2024-09-03 20:31:41 [Information] - ROLLBOT COMMAND: Displaying all card packs for user 282890968359763980
+2024-09-03 20:31:51 [Information] - PROGRAM: Starting bot...
+2024-09-03 20:31:52 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 20:31:52 [Information] - PROGRAM: Registering commands...
+2024-09-03 20:31:52 [Information] - PROGRAM: Commands registered.
+2024-09-03 20:31:53 [Information] - PROGRAM: Bot connected.
+2024-09-03 20:31:53 [Information] - PROGRAM: Bot is ready.
+2024-09-03 20:31:55 [Information] - ROLLBOT COMMAND: Packs command received
+2024-09-03 20:31:55 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 20:31:56 [Information] - ROLLBOT COMMAND: Processing packs command for user 282890968359763980
+2024-09-03 20:31:56 [Information] - ROLLBOT COMMAND: GET /api/CardPack/282890968359763980 responded with OK
+2024-09-03 20:31:56 [Information] - ROLLBOT COMMAND: Parsed card packs for user 282890968359763980
+2024-09-03 20:31:56 [Information] - ROLLBOT COMMAND: Displaying all card packs for user 282890968359763980
+2024-09-03 20:32:16 [Information] - PROGRAM: Starting bot...
+2024-09-03 20:32:16 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 20:32:17 [Information] - PROGRAM: Registering commands...
+2024-09-03 20:32:17 [Information] - PROGRAM: Commands registered.
+2024-09-03 20:32:17 [Information] - PROGRAM: Bot connected.
+2024-09-03 20:32:18 [Information] - PROGRAM: Bot is ready.
+2024-09-03 20:32:19 [Information] - ROLLBOT COMMAND: Packs command received
+2024-09-03 20:32:19 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 20:32:20 [Information] - ROLLBOT COMMAND: Processing packs command for user 282890968359763980
+2024-09-03 20:32:20 [Information] - ROLLBOT COMMAND: GET /api/CardPack/282890968359763980 responded with OK
+2024-09-03 20:32:20 [Information] - ROLLBOT COMMAND: Parsed card packs for user 282890968359763980
+2024-09-03 20:32:20 [Information] - ROLLBOT COMMAND: Displaying all card packs for user 282890968359763980
+2024-09-03 20:39:51 [Information] - PROGRAM: Starting bot...
+2024-09-03 20:39:51 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 20:39:51 [Information] - PROGRAM: Registering commands...
+2024-09-03 20:39:51 [Information] - PROGRAM: Commands registered.
+2024-09-03 20:39:52 [Information] - PROGRAM: Bot connected.
+2024-09-03 20:39:53 [Information] - PROGRAM: Bot is ready.
+2024-09-03 20:39:55 [Information] - ROLLBOT COMMAND: Packs command received
+2024-09-03 20:39:56 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 20:39:56 [Information] - ROLLBOT COMMAND: Processing packs command for user 282890968359763980
+2024-09-03 20:39:56 [Information] - ROLLBOT COMMAND: GET /api/CardPack/282890968359763980 responded with OK
+2024-09-03 20:39:56 [Information] - ROLLBOT COMMAND: Parsed card packs for user 282890968359763980
+2024-09-03 20:39:56 [Information] - ROLLBOT COMMAND: Displaying all card packs for user 282890968359763980
+2024-09-03 20:40:53 [Information] - PROGRAM: Starting bot...
+2024-09-03 20:40:54 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 20:40:54 [Information] - PROGRAM: Registering commands...
+2024-09-03 20:40:54 [Information] - PROGRAM: Commands registered.
+2024-09-03 20:40:55 [Information] - PROGRAM: Bot connected.
+2024-09-03 20:40:56 [Information] - PROGRAM: Bot is ready.
+2024-09-03 20:41:00 [Information] - ROLLBOT COMMAND: Packs command received
+2024-09-03 20:41:00 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 20:41:00 [Information] - ROLLBOT COMMAND: Processing packs command for user 282890968359763980
+2024-09-03 20:41:01 [Information] - ROLLBOT COMMAND: GET /api/CardPack/282890968359763980 responded with OK
+2024-09-03 20:41:01 [Information] - ROLLBOT COMMAND: Parsed card packs for user 282890968359763980
+2024-09-03 20:41:01 [Information] - ROLLBOT COMMAND: Displaying all card packs for user 282890968359763980
+2024-09-03 20:44:11 [Information] - PROGRAM: Starting bot...
+2024-09-03 20:44:11 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 20:44:11 [Information] - PROGRAM: Registering commands...
+2024-09-03 20:44:11 [Information] - PROGRAM: Commands registered.
+2024-09-03 20:44:12 [Information] - PROGRAM: Bot connected.
+2024-09-03 20:44:12 [Information] - PROGRAM: Bot is ready.
+2024-09-03 20:44:29 [Information] - ROLLBOT COMMAND: Packs command received
+2024-09-03 20:44:29 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 20:44:29 [Information] - ROLLBOT COMMAND: Processing packs command for user 282890968359763980
+2024-09-03 20:44:29 [Information] - ROLLBOT COMMAND: GET /api/CardPack/282890968359763980 responded with OK
+2024-09-03 20:44:29 [Information] - ROLLBOT COMMAND: Parsed card packs for user 282890968359763980
+2024-09-03 20:44:29 [Information] - ROLLBOT COMMAND: Displaying all card packs for user 282890968359763980
+2024-09-03 20:45:32 [Information] - PROGRAM: Starting bot...
+2024-09-03 20:45:32 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 20:45:32 [Information] - PROGRAM: Registering commands...
+2024-09-03 20:45:32 [Information] - PROGRAM: Commands registered.
+2024-09-03 20:45:33 [Information] - PROGRAM: Bot connected.
+2024-09-03 20:45:33 [Information] - PROGRAM: Bot is ready.
+2024-09-03 20:45:35 [Information] - ROLLBOT COMMAND: Packs command received
+2024-09-03 20:45:35 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 20:45:35 [Information] - ROLLBOT COMMAND: Processing packs command for user 282890968359763980
+2024-09-03 20:45:35 [Information] - ROLLBOT COMMAND: GET /api/CardPack/282890968359763980 responded with OK
+2024-09-03 20:45:35 [Information] - ROLLBOT COMMAND: Parsed card packs for user 282890968359763980
+2024-09-03 20:45:35 [Information] - ROLLBOT COMMAND: Displaying all card packs for user 282890968359763980
+2024-09-03 20:46:04 [Information] - PROGRAM: Starting bot...
+2024-09-03 20:46:04 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 20:46:04 [Information] - PROGRAM: Registering commands...
+2024-09-03 20:46:04 [Information] - PROGRAM: Commands registered.
+2024-09-03 20:46:05 [Information] - PROGRAM: Bot connected.
+2024-09-03 20:46:05 [Information] - PROGRAM: Bot is ready.
+2024-09-03 20:46:07 [Information] - ROLLBOT COMMAND: Packs command received
+2024-09-03 20:46:07 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 20:46:07 [Information] - ROLLBOT COMMAND: Processing packs command for user 282890968359763980
+2024-09-03 20:46:08 [Information] - ROLLBOT COMMAND: GET /api/CardPack/282890968359763980 responded with OK
+2024-09-03 20:46:08 [Information] - ROLLBOT COMMAND: Parsed card packs for user 282890968359763980
+2024-09-03 20:46:08 [Information] - ROLLBOT COMMAND: Displaying all card packs for user 282890968359763980
+2024-09-03 20:46:34 [Information] - PROGRAM: Starting bot...
+2024-09-03 20:46:34 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 20:46:34 [Information] - PROGRAM: Registering commands...
+2024-09-03 20:46:34 [Information] - PROGRAM: Commands registered.
+2024-09-03 20:46:35 [Information] - PROGRAM: Bot connected.
+2024-09-03 20:46:35 [Information] - PROGRAM: Bot is ready.
+2024-09-03 20:46:54 [Information] - ROLLBOT COMMAND: Packs command received
+2024-09-03 20:46:54 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 20:46:55 [Information] - ROLLBOT COMMAND: Processing packs command for user 282890968359763980
+2024-09-03 20:46:55 [Information] - ROLLBOT COMMAND: GET /api/CardPack/282890968359763980 responded with OK
+2024-09-03 20:46:55 [Information] - ROLLBOT COMMAND: Parsed card packs for user 282890968359763980
+2024-09-03 20:46:55 [Information] - ROLLBOT COMMAND: Displaying all card packs for user 282890968359763980
+2024-09-03 20:47:13 [Information] - PROGRAM: Starting bot...
+2024-09-03 20:47:13 [Information] - PROGRAM: Configuration loaded.
+2024-09-03 20:47:13 [Information] - PROGRAM: Registering commands...
+2024-09-03 20:47:13 [Information] - PROGRAM: Commands registered.
+2024-09-03 20:47:14 [Information] - PROGRAM: Bot connected.
+2024-09-03 20:47:14 [Information] - PROGRAM: Bot is ready.
+2024-09-03 20:47:17 [Information] - ROLLBOT COMMAND: Packs command received
+2024-09-03 20:47:17 [Information] - ROLLBOT COMMAND: Deferring response
+2024-09-03 20:47:17 [Information] - ROLLBOT COMMAND: Processing packs command for user 282890968359763980
+2024-09-03 20:47:17 [Information] - ROLLBOT COMMAND: GET /api/CardPack/282890968359763980 responded with OK
+2024-09-03 20:47:17 [Information] - ROLLBOT COMMAND: Parsed card packs for user 282890968359763980
+2024-09-03 20:47:17 [Information] - ROLLBOT COMMAND: Displaying all card packs for user 282890968359763980

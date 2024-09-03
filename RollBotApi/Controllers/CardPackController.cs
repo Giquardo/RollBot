@@ -39,4 +39,13 @@ public class CardPackController : ControllerBase
             return StatusCode(500, "Internal server error");
         }
     }
+
+    [HttpGet("{discordId}")]
+    public async Task<IActionResult> GetCardPacksAsync(string discordId)
+    {
+        _loggingService.LogInformation($"CardPack Controller: Getting card packs for user with Discord id {discordId}");
+        var cardPacks = await _cardPackService.GetCardPacksAsync(discordId);
+        var cardPackDtos = _mapper.Map<List<CardPackDto>>(cardPacks);
+        return Ok(cardPackDtos);
+    }
 }

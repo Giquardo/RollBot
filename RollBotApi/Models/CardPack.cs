@@ -35,13 +35,14 @@ namespace RollBotApi.Models
 
         private static readonly Dictionary<Rarity, double> RarityChances = new Dictionary<Rarity, double>
         {
-            { Rarity.Common, 0.7 },
-            { Rarity.Uncommon, 0.2 },
-            { Rarity.Rare, 0.08 },
-            { Rarity.Epic, 0.015 },
-            { Rarity.Legendary, 0.004 },
-            { Rarity.Mythic, 0.001 }
+            { Rarity.Common, 0.45 },       // Decreased significantly
+            { Rarity.Uncommon, 0.3 },      // Increased to provide a balanced step-up
+            { Rarity.Rare, 0.15 },         // Increased to reflect mid-level rarity
+            { Rarity.Epic, 0.05 },         // Increased slightly
+            { Rarity.Legendary, 0.035 },   // Increased to balance overall chance
+            { Rarity.Mythic, 0.015 }       // Increased to give a very rare but attainable chance
         };
+
 
         public CardPack(PackType packType = PackType.Normal)
         {

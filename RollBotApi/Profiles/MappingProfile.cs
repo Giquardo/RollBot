@@ -28,5 +28,11 @@ public class MappingProfile : Profile
 
         CreateMap<User, ReturnUserDto>()
             .ForMember(dest => dest.CardPacks, opt => opt.MapFrom(src => src.CardPacks));
+
+        // Add mapping for CardPack to CardPackDto
+        CreateMap<CardPack, CardPackDto>()
+            .ForMember(dest => dest.Id, opt => opt.MapFrom(src => src.Id.ToString()))
+            .ForMember(dest => dest.PackType, opt => opt.MapFrom(src => src.PackType.ToString()))
+            .ForMember(dest => dest.Rarity, opt => opt.MapFrom(src => src.Rarity.ToString()));
     }
 }

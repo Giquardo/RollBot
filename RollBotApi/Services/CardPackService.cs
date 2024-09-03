@@ -9,6 +9,7 @@ namespace RollBotApi.Services;
 public interface ICardPackService
 {
     Task<CardPack> BuyPackAsync(string discordId, PackType packType);
+    Task<List<CardPack>> GetCardPacksAsync(string discordId);
 }
 
 public class CardPackService : ICardPackService
@@ -46,5 +47,12 @@ public class CardPackService : ICardPackService
         await _userRepository.UpdateUser(discordId, user);
 
         return cardPack;
+    }
+
+    public async Task<List<CardPack>> GetCardPacksAsync(string discordId)
+    {
+        _loggingService.LogInformation($"CardPack Service: Getting card packs for user with Discord id {discordId}");
+        var user = await _userRepository.GetUser(discordId);
+        return user.CardPacks;
     }
 }
